@@ -12,3 +12,4 @@ Technics that were used:
 - using spread() method for multiple elements with the same selector for better readability
 - verifying expected state once action is completed
 - setting baseURL in config file
+- using cy.intercept() and assigning alias
