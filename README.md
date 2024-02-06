@@ -16,3 +16,4 @@ Technics that were used:
 - creating custom command for accepting cookies
 - creating function for price comparison (each number should be less or equal to the next number)
 - checking length of elements dynamically
+- mocking data
