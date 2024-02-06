@@ -2,7 +2,7 @@ describe("Test login functionality", () => {
     it('should check error for invalid login', () => {
         cy.visit('https://courses.ultimateqa.com/users/sign_in')
 
-        cy.log("navbar elements are visible")
+        cy.log("Sign in form is visible")
         cy.get(".sign-in__form").should("be.visible").within(() => {
             cy.get(".form__group").spread((emailForm, passwordForm) => {
                 cy.log("Enter email address")

@@ -17,7 +17,10 @@ describe("Test for sorting functionality on results page", () => {
     it("should check that results are sorted by cheapest", () => {
         cy.acceptCookies()
         cy.visit("https://www.kiwi.com/en/search/results/prague-czechia/barcelona-spain/anytime/anytime?sortBy=price")
-        cy.wait(10000) //need to wait due to real API, in testing env I'd mock this data
+
+        cy.log("mock data and wait for results to upload")
+        cy.returnResults()
+        cy.wait("@returnResults")
 
         cy.log("Cheapest sorting is preselected")
         cy.get("[data-test='SortBy-price']")
@@ -31,7 +34,7 @@ describe("Test for sorting functionality on results page", () => {
         cy.get("[data-test='ResultCardWrapper']").then(resultCard => {
             const resultCount = resultCard.length
             cy.contains("button", "Load more").click()
-            cy.wait(5000)
+            cy.wait("@returnResults")
             cy.get("[data-test='ResultCardWrapper']").its("length").should("be.gt", resultCount)
         })
 

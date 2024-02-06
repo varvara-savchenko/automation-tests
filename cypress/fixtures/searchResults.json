@@ -1,0 +1,3761 @@
+{
+  "data": {
+    "returnItineraries": {
+      "__typename": "Itineraries",
+      "server": {
+        "requestId": "6719a7b7a2144e7aa28a579003fbf777",
+        "environment": "PROD",
+        "packageVersion": "git-6bc560b1fc1b5208b33b2313e92eea154dff9476",
+        "serverToken": "eyJ0b2tlbiI6ICItN19jN2hSUm9YdW9xTFc3QllTTVNzRlFfd3FUelBYRFJlRGFGcHlKeUNPNm82RkpMeFhLOFJNTkZ3cENlUVk4RUswQ0NfOUhKaUVqQmdCekMwS05OT3pKNjRIeGFHVHJRd2UwX2NHZnVvVTJCOS1qOURmTzRRaFJVakZMaFhreHhiZDEtZ1BGWXpSb2RpdmlxQ0x2ZjNkMnMyQXFvdGFWUm5xa1luTzFoTmlDNmJmT185WHF1ZDJvX0lnT0x0Zl9rN2tRYWJibHBNa2ZlMGJVLWI1YlZoWDY3S0dtUzV2Ql82X1BjTWxIVTBwaEo0dmtPeGw2Qk9keHoxcFI0TU9kSXJLaFcxcDduN0RaZXphQTlDdjA1cWFfRUJrQWRlYngzaG1HR2k3YlpHVG45LWJvZl9yV3d1NVVxQUhkN0RGbHFNcXpVN1NORmhKY2FKQ0NrY3A2eUJtS2NBRXFIV19wNkRLV3g2NmQ2a1A4bUxuQTlqeTV6YTFGY3UzdU9KWEhpRzUwdlQ5T0JOSVh0Q3VWQU5YYktEaFV0S0F5ZE16dHVNNXJ4bVJxLUdOMW5xajhIYkVBVEwxM3Z3elBWOGdQc1gzekJrdmQzOEt0bDVSUHVvdGozdHlJd0w1WDRaQThiYTR4NU5JRWQ0M2tWakxXZGwyTEtFaWZORzItaUllYlZ2NnZESzJQUkNFS1BVOWhkTUlWQXc9PSIsICJ0aW1lcyI6IHsiOCI6IDE3MDcyMDY5MDUuNDUsICIyIjogMTcwNzIwNjkwNS40NjIsICIxIjogMTcwNzIwNjkxMS44MTZ9fQ=="
+      },
+      "metadata": {
+        "eligibilityInformation": {
+          "baggageEligibilityInformation": {
+            "topFiveResultsBaggageEligibleForPrompt": true,
+            "numberOfBags": 1
+          },
+          "topThreeResortingOccurred": false,
+          "carriersDeeplinkEligibility": false
+        },
+        "carriers": [
+          {
+            "code": "UU",
+            "id": "Carrier:187",
+            "name": "Air Austral"
+          },
+          {
+            "code": "RO",
+            "id": "Carrier:597",
+            "name": "Tarom"
+          },
+          {
+            "code": "MH",
+            "id": "Carrier:430",
+            "name": "Malaysia Airlines"
+          },
+          {
+            "code": "EN",
+            "id": "Carrier:158",
+            "name": "Air Dolomiti"
+          },
+          {
+            "code": "MK",
+            "id": "Carrier:179",
+            "name": "Air Mauritius"
+          },
+          {
+            "code": "H1",
+            "id": "Carrier:830",
+            "name": "Hahn Air"
+          },
+          {
+            "code": "TP",
+            "id": "Carrier:572",
+            "name": "TAP Portugal"
+          },
+          {
+            "code": "SP",
+            "id": "Carrier:527",
+            "name": "SATA Air Acores"
+          },
+          {
+            "code": "KU",
+            "id": "Carrier:402",
+            "name": "Kuwait Airways"
+          },
+          {
+            "code": "UK",
+            "id": "Carrier:1125",
+            "name": "Air Vistara"
+          },
+          {
+            "code": "I2",
+            "id": "Carrier:864",
+            "name": "Iberia Express"
+          },
+          {
+            "code": "RC",
+            "id": "Carrier:163",
+            "name": "Atlantic Airways"
+          },
+          {
+            "code": "ET",
+            "id": "Carrier:295",
+            "name": "Ethiopian Airlines"
+          },
+          {
+            "code": "WY",
+            "id": "Carrier:473",
+            "name": "Oman Air"
+          },
+          {
+            "code": "IZ",
+            "id": "Carrier:40",
+            "name": "Arkia"
+          },
+          {
+            "code": "SQ",
+            "id": "Carrier:528",
+            "name": "Singapore Airlines"
+          },
+          {
+            "code": "UG",
+            "id": "Carrier:592",
+            "name": "TunisAir Express"
+          },
+          {
+            "code": "W9",
+            "id": "Carrier:170",
+            "name": "Wizz Air UK"
+          },
+          {
+            "code": "MU",
+            "id": "Carrier:241",
+            "name": "China Eastern Airlines"
+          },
+          {
+            "code": "BT",
+            "id": "Carrier:22",
+            "name": "airBaltic"
+          },
+          {
+            "code": "AY",
+            "id": "Carrier:307",
+            "name": "Finnair"
+          },
+          {
+            "code": "FI",
+            "id": "Carrier:355",
+            "name": "Icelandair"
+          },
+          {
+            "code": "KE",
+            "id": "Carrier:399",
+            "name": "Korean Air"
+          },
+          {
+            "code": "AA",
+            "id": "Carrier:50",
+            "name": "American Airlines"
+          },
+          {
+            "code": "LS",
+            "id": "Carrier:23",
+            "name": "Jet2"
+          },
+          {
+            "code": "AR",
+            "id": "Carrier:112",
+            "name": "Aerolineas Argentinas"
+          },
+          {
+            "code": "KM",
+            "id": "Carrier:87",
+            "name": "KM Malta Airlines"
+          },
+          {
+            "code": "DT",
+            "id": "Carrier:594",
+            "name": "TAAG Angola Airlines"
+          },
+          {
+            "code": "FZ",
+            "id": "Carrier:27",
+            "name": "Fly Dubai"
+          },
+          {
+            "code": "AI",
+            "id": "Carrier:82",
+            "name": "Air India Limited"
+          },
+          {
+            "code": "H4",
+            "id": "Carrier:2389",
+            "name": "HiSky Europe"
+          },
+          {
+            "code": "V7",
+            "id": "Carrier:15",
+            "name": "Volotea"
+          },
+          {
+            "code": "S4",
+            "id": "Carrier:516",
+            "name": "SATA Azores Airlines"
+          },
+          {
+            "code": "6H",
+            "id": "Carrier:371",
+            "name": "Israir"
+          },
+          {
+            "code": "A3",
+            "id": "Carrier:39",
+            "name": "Aegean"
+          },
+          {
+            "code": "W4",
+            "id": "Carrier:820",
+            "name": "Wizz Air Malta"
+          },
+          {
+            "code": "PK",
+            "id": "Carrier:489",
+            "name": "Pakistan International Airlines"
+          },
+          {
+            "code": "BY",
+            "id": "Carrier:584",
+            "name": "TUI Airways"
+          },
+          {
+            "code": "NO",
+            "id": "Carrier:1001",
+            "name": "Neos Air"
+          },
+          {
+            "code": "EY",
+            "id": "Carrier:296",
+            "name": "Etihad Airways"
+          },
+          {
+            "code": "DY",
+            "id": "Carrier:17",
+            "name": "Norwegian"
+          },
+          {
+            "code": "AF",
+            "id": "Carrier:70",
+            "name": "Air France"
+          },
+          {
+            "code": "XY",
+            "id": "Carrier:468",
+            "name": "flynas"
+          },
+          {
+            "code": "OM",
+            "id": "Carrier:426",
+            "name": "MIAT Mongolian Airlines"
+          },
+          {
+            "code": "LH",
+            "id": "Carrier:419",
+            "name": "Lufthansa"
+          },
+          {
+            "code": "KL",
+            "id": "Carrier:391",
+            "name": "KLM Royal Dutch Airlines"
+          },
+          {
+            "code": "A1",
+            "id": "Carrier:683",
+            "name": "A.P.G. Distribution System"
+          },
+          {
+            "code": "HC",
+            "id": "Carrier:802",
+            "name": "Air Senegal"
+          },
+          {
+            "code": "PC",
+            "id": "Carrier:16",
+            "name": "Pegasus"
+          },
+          {
+            "code": "AM",
+            "id": "Carrier:98",
+            "name": "AeroMéxico"
+          },
+          {
+            "code": "D8",
+            "id": "Carrier:276",
+            "name": "Norwegian International"
+          },
+          {
+            "code": "CA",
+            "id": "Carrier:151",
+            "name": "Air China"
+          },
+          {
+            "code": "AH",
+            "id": "Carrier:156",
+            "name": "Air Algerie"
+          },
+          {
+            "code": "UX",
+            "id": "Carrier:60",
+            "name": "Air Europa"
+          },
+          {
+            "code": "LM",
+            "id": "Carrier:416",
+            "name": "LoganAir"
+          },
+          {
+            "code": "AT",
+            "id": "Carrier:510",
+            "name": "Royal Air Maroc"
+          },
+          {
+            "code": "DE",
+            "id": "Carrier:28",
+            "name": "Condor"
+          },
+          {
+            "code": "ZB",
+            "id": "Carrier:18",
+            "name": "Air Albania"
+          },
+          {
+            "code": "TS",
+            "id": "Carrier:202",
+            "name": "Air Transat"
+          },
+          {
+            "code": "SN",
+            "id": "Carrier:223",
+            "name": "Brussels Airlines"
+          },
+          {
+            "code": "OK",
+            "id": "Carrier:269",
+            "name": "Czech Airlines"
+          },
+          {
+            "code": "UL",
+            "id": "Carrier:522",
+            "name": "SriLankan Airlines"
+          },
+          {
+            "code": "TK",
+            "id": "Carrier:581",
+            "name": "Turkish Airlines"
+          },
+          {
+            "code": "DL",
+            "id": "Carrier:274",
+            "name": "Delta Air Lines"
+          },
+          {
+            "code": "HV",
+            "id": "Carrier:4",
+            "name": "Transavia"
+          },
+          {
+            "code": "OU",
+            "id": "Carrier:265",
+            "name": "Croatia Airlines"
+          },
+          {
+            "code": "BJ",
+            "id": "Carrier:42",
+            "name": "NouvelAir"
+          },
+          {
+            "code": "OS",
+            "id": "Carrier:121",
+            "name": "Austrian Airlines"
+          },
+          {
+            "code": "LO",
+            "id": "Carrier:409",
+            "name": "LOT Polish Airlines"
+          },
+          {
+            "code": "XQ",
+            "id": "Carrier:25",
+            "name": "SunExpress"
+          },
+          {
+            "code": "TO",
+            "id": "Carrier:654",
+            "name": "Transavia France"
+          },
+          {
+            "code": "ME",
+            "id": "Carrier:445",
+            "name": "Middle East Airlines"
+          },
+          {
+            "code": "LX",
+            "id": "Carrier:541",
+            "name": "Swiss International Air Lines"
+          },
+          {
+            "code": "CI",
+            "id": "Carrier:240",
+            "name": "China Airlines"
+          },
+          {
+            "code": "LY",
+            "id": "Carrier:289",
+            "name": "El Al Israel Airlines"
+          },
+          {
+            "code": "T7",
+            "id": "Carrier:582",
+            "name": "Twin Jet"
+          },
+          {
+            "code": "EW",
+            "id": "Carrier:301",
+            "name": "Eurowings"
+          },
+          {
+            "code": "UA",
+            "id": "Carrier:601",
+            "name": "United Airlines"
+          },
+          {
+            "code": "EI",
+            "id": "Carrier:10",
+            "name": "Aer Lingus"
+          },
+          {
+            "code": "W6",
+            "id": "Carrier:12",
+            "name": "Wizz Air"
+          },
+          {
+            "code": "IB",
+            "id": "Carrier:352",
+            "name": "Iberia Airlines"
+          },
+          {
+            "code": "QF",
+            "id": "Carrier:501",
+            "name": "Qantas"
+          },
+          {
+            "code": "BA",
+            "id": "Carrier:207",
+            "name": "British Airways"
+          },
+          {
+            "code": "GA",
+            "id": "Carrier:323",
+            "name": "Garuda Indonesia"
+          },
+          {
+            "code": "WF",
+            "id": "Carrier:632",
+            "name": "Widerøe"
+          },
+          {
+            "code": "SK",
+            "id": "Carrier:519",
+            "name": "SAS"
+          },
+          {
+            "code": "JU",
+            "id": "Carrier:378",
+            "name": "Air Serbia"
+          },
+          {
+            "code": "KQ",
+            "id": "Carrier:395",
+            "name": "Kenya Airways"
+          },
+          {
+            "code": "QS",
+            "id": "Carrier:6",
+            "name": "Smartwings"
+          },
+          {
+            "code": "U2",
+            "id": "Carrier:3",
+            "name": "easyJet"
+          },
+          {
+            "code": "BZ",
+            "id": "Carrier:782",
+            "name": "Blue Bird Airways"
+          },
+          {
+            "code": "FB",
+            "id": "Carrier:225",
+            "name": "Bulgaria Air"
+          },
+          {
+            "code": "HY",
+            "id": "Carrier:606",
+            "name": "Uzbekistan Airways"
+          },
+          {
+            "code": "CY",
+            "id": "Carrier:267",
+            "name": "Cyprus Airways"
+          },
+          {
+            "code": "EK",
+            "id": "Carrier:291",
+            "name": "Emirates"
+          },
+          {
+            "code": "CZ",
+            "id": "Carrier:242",
+            "name": "China Southern Airlines"
+          },
+          {
+            "code": "XK",
+            "id": "Carrier:264",
+            "name": "Air Corsica"
+          },
+          {
+            "code": "AZ",
+            "id": "Carrier:138",
+            "name": "ITA Airways"
+          },
+          {
+            "code": "SM",
+            "id": "Carrier:737",
+            "name": "Air Cairo"
+          },
+          {
+            "code": "LG",
+            "id": "Carrier:422",
+            "name": "Luxair"
+          },
+          {
+            "code": "TU",
+            "id": "Carrier:573",
+            "name": "Tunisair"
+          },
+          {
+            "code": "QR",
+            "id": "Carrier:502",
+            "name": "Qatar Airways"
+          },
+          {
+            "code": "MS",
+            "id": "Carrier:288",
+            "name": "Egyptair"
+          },
+          {
+            "code": "GF",
+            "id": "Carrier:333",
+            "name": "Gulf Air Bahrain"
+          },
+          {
+            "code": "J2",
+            "id": "Carrier:79",
+            "name": "Azerbaijan Airlines"
+          },
+          {
+            "code": "VN",
+            "id": "Carrier:611",
+            "name": "Vietnam Airlines"
+          },
+          {
+            "code": "NH",
+            "id": "Carrier:99",
+            "name": "All Nippon Airways"
+          },
+          {
+            "code": "VY",
+            "id": "Carrier:9",
+            "name": "Vueling"
+          },
+          {
+            "code": "SV",
+            "id": "Carrier:538",
+            "name": "Saudi Arabian Airlines"
+          },
+          {
+            "code": "WS",
+            "id": "Carrier:631",
+            "name": "WestJet"
+          },
+          {
+            "code": "TG",
+            "id": "Carrier:579",
+            "name": "Thai Airways International"
+          },
+          {
+            "code": "JL",
+            "id": "Carrier:375",
+            "name": "Japan Airlines"
+          },
+          {
+            "code": "RJ",
+            "id": "Carrier:512",
+            "name": "Royal Jordanian"
+          }
+        ],
+        "stopoverCountries": [
+          {
+            "code": "IT",
+            "name": "Italy",
+            "id": "Country:IT"
+          }
+        ],
+        "inboundDays": [
+          "FRIDAY",
+          "MONDAY",
+          "SATURDAY",
+          "THURSDAY",
+          "TUESDAY",
+          "SUNDAY",
+          "WEDNESDAY"
+        ],
+        "outboundDays": [
+          "FRIDAY",
+          "MONDAY",
+          "SATURDAY",
+          "THURSDAY",
+          "TUESDAY",
+          "SUNDAY",
+          "WEDNESDAY"
+        ],
+        "travelTips": [],
+        "topResults": {
+          "best": {
+            "__typename": "ItineraryReturn",
+            "duration": 18000,
+            "price": {
+              "amount": "1747"
+            },
+            "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MDkwNjQwMDA6QkNOOjE3MDkwNzMzMDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzA5NzQzNTAwOlBSRzoxNzA5NzUyMjAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NDcifQ=="
+          },
+          "cheapest": {
+            "__typename": "ItineraryReturn",
+            "duration": 18600,
+            "price": {
+              "amount": "1737"
+            },
+            "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MTI2OTEwMDA6QkNOOjE3MTI3MDA2MDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjUyOkJDTjoxNzEzOTM3MjAwOlBSRzoxNzEzOTQ2MjAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3MzcifQ=="
+          },
+          "fastest": {
+            "__typename": "ItineraryReturn",
+            "duration": 17100,
+            "price": {
+              "amount": "2262"
+            },
+            "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IkVXOjQyMTQ6UFJHOjE3MjkwODgxMDA6QkNOOjE3MjkwOTY1MDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzMwOTExNTAwOlBSRzoxNzMwOTIwMjAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjIyNjIifQ=="
+          },
+          "sourceTakeoffAsc": {
+            "__typename": "ItineraryReturn",
+            "duration": 18000,
+            "price": {
+              "amount": "2122"
+            },
+            "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MDgzNzQ2MDA6QkNOOjE3MDgzODM5MDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzA5NzQzNTAwOlBSRzoxNzA5NzUyMjAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjIxMjIifQ=="
+          },
+          "destinationLandingAsc": {
+            "__typename": "ItineraryReturn",
+            "duration": 18000,
+            "price": {
+              "amount": "2122"
+            },
+            "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MDgzNzQ2MDA6QkNOOjE3MDgzODM5MDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzA5NzQzNTAwOlBSRzoxNzA5NzUyMjAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjIxMjIifQ=="
+          }
+        },
+        "priceAlertExists": null,
+        "existingPriceAlert": null,
+        "searchFingerprint": "eyJwYXJhbXMiOnsiZmlsdGVyIjp7ImFsbG93Q2hhbmdlSW5ib3VuZERlc3RpbmF0aW9uIjp0cnVlLCJhbGxvd0NoYW5nZUluYm91bmRTb3VyY2UiOnRydWUsImFsbG93T3Zlcm5pZ2h0U3RvcG92ZXIiOnRydWUsImFsbG93RGlmZmVyZW50U3RhdGlvbkNvbm5lY3Rpb24iOnRydWUsImNvbnRlbnRQcm92aWRlcnMiOlsiRkxJWEJVU19ESVJFQ1RTIiwiRlJFU0giLCJLQVlBSyIsIktJV0kiXSwiZmxpZ2h0c0FwaUxpbWl0IjoyNSwibGltaXQiOjEwLCJzaG93Tm9DaGVja2VkQmFncyI6dHJ1ZSwidHJhbnNwb3J0VHlwZXMiOlsiRkxJR0hUIl0sImVuYWJsZUZyb21Ub0xvY2F0aW9uSW5WaWEiOmZhbHNlLCJlbmFibGVTZWxmVHJhbnNmZXIiOnRydWUsImVuYWJsZVRydWVIaWRkZW5DaXR5Ijp0cnVlLCJlbmFibGVUaHJvd0F3YXlUaWNrZXRpbmciOnRydWUsImV4Y2x1ZGVUSENJblNlYXJjaFJlc3VsdHMiOmZhbHNlLCJhbGxvd1JldHVybkZyb21EaWZmZXJlbnRDaXR5Ijp0cnVlfSwib3B0aW9ucyI6eyJjdXJyZW5jeSI6ImN6ayIsInBhcnRuZXIiOiJza3lwaWNrZXIiLCJwYXJ0bmVyTWFya2V0IjoiZW4iLCJhZmZpbElEIjoic2t5cGlja2VyIiwibG9jYWxlIjoiZW4iLCJleGFjdFRyYXZlbFRpcHMiOmZhbHNlLCJhYlRlc3RJbnB1dCI6eyJrYXlha0FCQ1Rlc3QiOiJFWElTVElOR19SVUxFUyIsImZpcnN0UmVzcG9uc2VTbG93ZG93biI6Ik1TMTAwMCJ9LCJ1c2VQcmVjYWNoZWQiOmZhbHNlLCJzb3J0QnkiOiJQUklDRSIsIm1lcmdlUHJpY2VEaWZmUnVsZSI6IklOQ1JFQVNFRCIsImZhc3RGaWx0ZXJzIjpmYWxzZSwic2VhcmNoU3RyYXRlZ3kiOiJSRURVQ0VEIiwiZmVhdHVyZU5hbWUiOiJTZWFyY2hSZXR1cm5JdGluZXJhcmllc1F1ZXJ5IiwibWFya2V0IjoiY3oifSwic2VhcmNoIjp7InBhc3NlbmdlcnMiOnsiYWR1bHRzSG9sZEJhZ3MiOlswXSwiYWR1bHRzSGFuZEJhZ3MiOlswXSwiYWR1bHRzIjoxLCJjaGlsZHJlbiI6MCwiaW5mYW50cyI6MH0sImNhYmluQ2xhc3MiOnsiY2FiaW5DbGFzcyI6IkVDT05PTVkiLCJhcHBseU1peGVkQ2xhc3NlcyI6dHJ1ZX0sIml0aW5lcmFyeSI6eyJzb3VyY2UiOnsiaWRzIjpbInByYWd1ZV9jeiJdfSwiZGVzdGluYXRpb24iOnsiaWRzIjpbImJhcmNlbG9uYV9lcyJdfX19fSwic2VhcmNoX3R5cGUiOiJSRVRVUk5fSVRJTkVSQVJJRVMiLCJzZWFyY2hfaWQiOiI1OWFiODg1ODcxMzgiLCJjcmVhdGVkX2F0IjoxNzA3MjA2OTA5LCJ2ZXJzaW9uIjoxfQ==",
+        "hasMorePending": true,
+        "priceAlertsTopResults": {
+          "best": {
+            "price": {
+              "amount": "1747"
+            }
+          },
+          "cheapest": {
+            "price": {
+              "amount": "1737"
+            }
+          },
+          "fastest": {
+            "price": {
+              "amount": "2262"
+            }
+          },
+          "sourceTakeoffAsc": {
+            "price": {
+              "amount": "2122"
+            }
+          },
+          "destinationLandingAsc": {
+            "price": {
+              "amount": "2122"
+            }
+          }
+        },
+        "itinerariesCount": 300,
+        "missingProviders": [],
+        "statusPerProvider": [
+          {
+            "provider": {
+              "id": "ContentProvider:FRESH"
+            },
+            "errorHappened": false,
+            "errorMessage": null
+          },
+          {
+            "provider": {
+              "id": "ContentProvider:KAYAK"
+            },
+            "errorHappened": false,
+            "errorMessage": null
+          },
+          {
+            "provider": {
+              "id": "ContentProvider:KIWI"
+            },
+            "errorHappened": false,
+            "errorMessage": null
+          }
+        ],
+        "topFiveOriginalItinerariesContainTHC": false,
+        "hasTier1MarketItineraries": true,
+        "sharedItinerary": null,
+        "kayakEligibilityTest": {
+          "containsKayakWithNewRules": false,
+          "containsKayakWithCurrentRules": false
+        }
+      },
+      "itineraries": [
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MTI2OTEwMDA6QkNOOjE3MTI3MDA2MDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjUyOkJDTjoxNzEzOTM3MjAwOlBSRzoxNzEzOTQ2MjAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3MzcifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1NTpQUkc6MTcxMjY5MTAwMDpCQ046MTcxMjcwMDYwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTI6QkNOOjE3MTM5MzcyMDA6UFJHOjE3MTM5NDYyMDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZDZlMDAwMGJlOTAxNjA0XzAiLCIwMWFmMTQ1YzRkN2QwMDAwNDVlYzlmMDVfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1737",
+            "priceBeforeDiscount": "1737"
+          },
+          "priceEur": {
+            "amount": "69.54810985494315"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1873.36"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1598.6"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "GMh_sgyvRckNHjsONp2eGDvkplqWPHVUEkr4WrwIMFtnEpdMv5Ck6bKTLLIJndSDnGZYeB9VemyahPQwwiyY7Gro0D73RF4AJciPNfLak99BHKv3tPDyKkEQT7ZzSxd5nv43BL5Y8h9paA7xjea2bC0N-O37MJQSYZHwbfewCe6UfxVl9sIjYUquUuARhiuIARznxgqfTM4hioAGkbGnE-suX31s5WqVM7svRK8b1FZqeoO5IDx1JY__yzyo7uktAZjd3nPkTdHufI4mDJ2Ee5DauQY9CUhuiJ2z4Zv-sk-lL5qMscLCVMcIENukDQTT2xeGmxS3uh0RD4oTN9e715wGAKo1XccrwrJExSyYAOm75cslMh3mnWmCkplprwkBh-rzRnH9FYAjMMg6US3vY84VIcZYyX8ADEJjRU0baIYetvM6s5xcBIy8No9EOe6scofKM2zRMkjE9udvKUp7sZkSVbl0y3BP-ASe_xGCJhF8crls0OKTOxl0IMatx2Zmh6p9B1YA61JxGNMgWriWe0c0axIbFmn7nqiyHNELKiGFGh8OjLLP6K0aNl_uvju_wm5krjb-9-dXvzUALcrS-gvt1PL_FD6flmvw_qMj3Ygk0WE0VR-hjcjbSArdW5CilKJSUqY0C3fZ_Cz5P7FcZaAcLbcJTQgrueZxGj6vyutQ9t7h78SZcup6MM1j8YPLfet2eG8kVAPpd_Lf70waB1LSfgtk8VkB6JbnfOkh6Rw8gxXPSxwIWX3EmVll1HlW3FjTWNjhNC5Fr7RhcOBg1VZfCfxDZoFINAQqKDbvZ4WtQduES8fYyW6P3YQg8V5XdYcAhP9uEkijiE98Dxw3nHd7CsgIo16RhtpnnHtyF8PYi8ssDuVEMwbgMQeCwJxh3jojIZ9_U2H2g6altaL_XtByYdyQnNWdQMxs-59CgsU9nX90CJo-KYu973FZIwKUMieGr4jHKbYJGe7qEYOf9THXwRedejyKP08WNvY9bdn4=",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=GMh_sgyvRckNHjsONp2eGDvkplqWPHVUEkr4WrwIMFtnEpdMv5Ck6bKTLLIJndSDnGZYeB9VemyahPQwwiyY7Gro0D73RF4AJciPNfLak99BHKv3tPDyKkEQT7ZzSxd5nv43BL5Y8h9paA7xjea2bC0N-O37MJQSYZHwbfewCe6UfxVl9sIjYUquUuARhiuIARznxgqfTM4hioAGkbGnE-suX31s5WqVM7svRK8b1FZqeoO5IDx1JY__yzyo7uktAZjd3nPkTdHufI4mDJ2Ee5DauQY9CUhuiJ2z4Zv-sk-lL5qMscLCVMcIENukDQTT2xeGmxS3uh0RD4oTN9e715wGAKo1XccrwrJExSyYAOm75cslMh3mnWmCkplprwkBh-rzRnH9FYAjMMg6US3vY84VIcZYyX8ADEJjRU0baIYetvM6s5xcBIy8No9EOe6scofKM2zRMkjE9udvKUp7sZkSVbl0y3BP-ASe_xGCJhF8crls0OKTOxl0IMatx2Zmh6p9B1YA61JxGNMgWriWe0c0axIbFmn7nqiyHNELKiGFGh8OjLLP6K0aNl_uvju_wm5krjb-9-dXvzUALcrS-gvt1PL_FD6flmvw_qMj3Ygk0WE0VR-hjcjbSArdW5CilKJSUqY0C3fZ_Cz5P7FcZaAcLbcJTQgrueZxGj6vyutQ9t7h78SZcup6MM1j8YPLfet2eG8kVAPpd_Lf70waB1LSfgtk8VkB6JbnfOkh6Rw8gxXPSxwIWX3EmVll1HlW3FjTWNjhNC5Fr7RhcOBg1VZfCfxDZoFINAQqKDbvZ4WtQduES8fYyW6P3YQg8V5XdYcAhP9uEkijiE98Dxw3nHd7CsgIo16RhtpnnHtyF8PYi8ssDuVEMwbgMQeCwJxh3jojIZ9_U2H2g6altaL_XtByYdyQnNWdQMxs-59CgsU9nX90CJo-KYu973FZIwKUMieGr4jHKbYJGe7qEYOf9THXwRedejyKP08WNvY9bdn4%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4d6e0000be901604_0%7C01af145c4d7d000045ec9f05_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=GMh_sgyvRckNHjsONp2eGDvkplqWPHVUEkr4WrwIMFtnEpdMv5Ck6bKTLLIJndSDnGZYeB9VemyahPQwwiyY7Gro0D73RF4AJciPNfLak99BHKv3tPDyKkEQT7ZzSxd5nv43BL5Y8h9paA7xjea2bC0N-O37MJQSYZHwbfewCe6UfxVl9sIjYUquUuARhiuIARznxgqfTM4hioAGkbGnE-suX31s5WqVM7svRK8b1FZqeoO5IDx1JY__yzyo7uktAZjd3nPkTdHufI4mDJ2Ee5DauQY9CUhuiJ2z4Zv-sk-lL5qMscLCVMcIENukDQTT2xeGmxS3uh0RD4oTN9e715wGAKo1XccrwrJExSyYAOm75cslMh3mnWmCkplprwkBh-rzRnH9FYAjMMg6US3vY84VIcZYyX8ADEJjRU0baIYetvM6s5xcBIy8No9EOe6scofKM2zRMkjE9udvKUp7sZkSVbl0y3BP-ASe_xGCJhF8crls0OKTOxl0IMatx2Zmh6p9B1YA61JxGNMgWriWe0c0axIbFmn7nqiyHNELKiGFGh8OjLLP6K0aNl_uvju_wm5krjb-9-dXvzUALcrS-gvt1PL_FD6flmvw_qMj3Ygk0WE0VR-hjcjbSArdW5CilKJSUqY0C3fZ_Cz5P7FcZaAcLbcJTQgrueZxGj6vyutQ9t7h78SZcup6MM1j8YPLfet2eG8kVAPpd_Lf70waB1LSfgtk8VkB6JbnfOkh6Rw8gxXPSxwIWX3EmVll1HlW3FjTWNjhNC5Fr7RhcOBg1VZfCfxDZoFINAQqKDbvZ4WtQduES8fYyW6P3YQg8V5XdYcAhP9uEkijiE98Dxw3nHd7CsgIo16RhtpnnHtyF8PYi8ssDuVEMwbgMQeCwJxh3jojIZ9_U2H2g6altaL_XtByYdyQnNWdQMxs-59CgsU9nX90CJo-KYu973FZIwKUMieGr4jHKbYJGe7qEYOf9THXwRedejyKP08WNvY9bdn4=",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1737"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [
+              {
+                "default": false,
+                "price": {
+                  "amount": "124.88",
+                  "roundedFormattedValue": "125 Kč"
+                }
+              },
+              {
+                "default": false,
+                "price": {
+                  "amount": "624.39",
+                  "roundedFormattedValue": "624 Kč"
+                }
+              },
+              {
+                "default": true,
+                "price": {
+                  "amount": "249.76",
+                  "roundedFormattedValue": "250 Kč"
+                }
+              }
+            ],
+            "priceLocksEur": [
+              {
+                "default": false,
+                "price": {
+                  "amount": "5",
+                  "roundedFormattedValue": "5 €"
+                }
+              },
+              {
+                "default": false,
+                "price": {
+                  "amount": "25",
+                  "roundedFormattedValue": "25 €"
+                }
+              },
+              {
+                "default": true,
+                "price": {
+                  "amount": "10",
+                  "roundedFormattedValue": "10 €"
+                }
+              }
+            ]
+          },
+          "legacyId": "145c01af4d6e0000be901604_0-01af145c4d7d000045ec9f05_0",
+          "outbound": {
+            "id": "Sector:e25028e92d4f7c4eb30476ff3f6de66de9278ad0~e25028e92d4f7c4eb30476ff3f6de66de9278ad0",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:e25028e92d4f7c4eb30476ff3f6de66de9278ad0",
+                  "source": {
+                    "localTime": "2024-04-09T21:30:00",
+                    "utcTime": "2024-04-09T19:30:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-04-10T00:10:00",
+                    "utcTime": "2024-04-09T22:10:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9600,
+                  "type": "FLIGHT",
+                  "code": "8655",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9600
+          },
+          "inbound": {
+            "id": "Sector:7b394a36a4029af0fed8102760fd626ba9284f6f~7b394a36a4029af0fed8102760fd626ba9284f6f",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:7b394a36a4029af0fed8102760fd626ba9284f6f",
+                  "source": {
+                    "localTime": "2024-04-24T07:40:00",
+                    "utcTime": "2024-04-24T05:40:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-04-24T10:10:00",
+                    "utcTime": "2024-04-24T08:10:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 9000,
+                  "type": "FLIGHT",
+                  "code": "8652",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9000
+          },
+          "stopover": {
+            "nightsCount": 14,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 20610
+          },
+          "lastAvailable": {
+            "seatsLeft": 1
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2171.25"
+            },
+            "flexiFarePrice": {
+              "amount": "2361"
+            }
+          }
+        },
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MDkwNjQwMDA6QkNOOjE3MDkwNzMzMDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzA5NzQzNTAwOlBSRzoxNzA5NzUyMjAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NDcifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1NTpQUkc6MTcwOTA2NDAwMDpCQ046MTcwOTA3MzMwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTQ6QkNOOjE3MDk3NDM1MDA6UFJHOjE3MDk3NTIyMDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZDQ0MDAwMDFmM2ExYmUyXzAiLCIwMWFmMTQ1YzRkNGMwMDAwMmY5NDhkNWZfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1747",
+            "priceBeforeDiscount": "1747"
+          },
+          "priceEur": {
+            "amount": "69.94850196694627"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1498.44"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1473.46"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "Ghk4Y3iUPmsN12Whl51PTo6Mjf6PI1DbgBmz9P_LuybBYCmVvRRNy0U4585eUWQWLYf2tw8oDR5d8t8QvHzHV77qnvHe7b_jR4hhh5WYLj3yZp2xYZ8hZn9gpimAv_Cf0Chsv13SHF2ru7ihjtrzDXlLXc8VVuVlNbJre01xpIme7CHpByVs6oIBZAYdfyYIydtvS0ZeSgThMlqVICdsJd8nm6DUcvf3336ddLwS-G4QYBoCEvqlzKflpu-LR-8CWB-ELGcj-zkAnY9xHkfkXeKBWAvMhTZzd6tBpLvXCBGxlnLJfw7GU-FSIxQ9N_wtJKL0k0KV2vsnZrBoPb6Qx_QkVAVrS6xxZ2G_nmcBWaNToUSbc8DcqGKnASf06Kg7LpcUETdn8gbLR2AFuvBZGwBlFu6J6fQCf5ZihssUlDOnC7Ap5Tzq96H0720OzgOgieny3k1vKhtd9fW28TZWVAzZX5uVe6Q4vK1jVterVeINYQbO3Px2XNdcOuSH_w5QPox9dQ-aaeaC460je4KxI18RGHdWbMnOmrP3Abzqq88qlEDMc7ZcJxWgg_qMzSyR-AB9Coqs5mZxmsI5rdyWEwSZVa1qs5ztkgu524u5_DQOCm2MrrRf_g_oSop7-N2Gh-n31PgVTCUCrggJiGli_WfBID9nitY9LG3tTdL_4myOqBXRhIkFDyjM6Z7hoQNUtMgBPVy7rkCETUlNY6TE479yNiJ_O5BfE-TtXkGACmUs03CTijeMk4JbncnJlTLcYZ8AnN8vQ_HHpVoToiA67vOi0ptR-KD7UGe9u1gezI8QsTUjSXf9eSc-vJuIDPXYGXC6jhGU4GNzqW513kpcY9dg_cQHni4cRDRAJ-3GOpEeqL1C09Es0Rw5Q3Vyw66Pczn1teD6FgQD9o5TwRuVSgOHZVoV--PTA1YruVeAaXqIY-RuECzHrFVql5WPlabQBcxFpYUCsb5Q9UGi6SQfDIw==",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=Ghk4Y3iUPmsN12Whl51PTo6Mjf6PI1DbgBmz9P_LuybBYCmVvRRNy0U4585eUWQWLYf2tw8oDR5d8t8QvHzHV77qnvHe7b_jR4hhh5WYLj3yZp2xYZ8hZn9gpimAv_Cf0Chsv13SHF2ru7ihjtrzDXlLXc8VVuVlNbJre01xpIme7CHpByVs6oIBZAYdfyYIydtvS0ZeSgThMlqVICdsJd8nm6DUcvf3336ddLwS-G4QYBoCEvqlzKflpu-LR-8CWB-ELGcj-zkAnY9xHkfkXeKBWAvMhTZzd6tBpLvXCBGxlnLJfw7GU-FSIxQ9N_wtJKL0k0KV2vsnZrBoPb6Qx_QkVAVrS6xxZ2G_nmcBWaNToUSbc8DcqGKnASf06Kg7LpcUETdn8gbLR2AFuvBZGwBlFu6J6fQCf5ZihssUlDOnC7Ap5Tzq96H0720OzgOgieny3k1vKhtd9fW28TZWVAzZX5uVe6Q4vK1jVterVeINYQbO3Px2XNdcOuSH_w5QPox9dQ-aaeaC460je4KxI18RGHdWbMnOmrP3Abzqq88qlEDMc7ZcJxWgg_qMzSyR-AB9Coqs5mZxmsI5rdyWEwSZVa1qs5ztkgu524u5_DQOCm2MrrRf_g_oSop7-N2Gh-n31PgVTCUCrggJiGli_WfBID9nitY9LG3tTdL_4myOqBXRhIkFDyjM6Z7hoQNUtMgBPVy7rkCETUlNY6TE479yNiJ_O5BfE-TtXkGACmUs03CTijeMk4JbncnJlTLcYZ8AnN8vQ_HHpVoToiA67vOi0ptR-KD7UGe9u1gezI8QsTUjSXf9eSc-vJuIDPXYGXC6jhGU4GNzqW513kpcY9dg_cQHni4cRDRAJ-3GOpEeqL1C09Es0Rw5Q3Vyw66Pczn1teD6FgQD9o5TwRuVSgOHZVoV--PTA1YruVeAaXqIY-RuECzHrFVql5WPlabQBcxFpYUCsb5Q9UGi6SQfDIw%3D%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4d4400001f3a1be2_0%7C01af145c4d4c00002f948d5f_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=Ghk4Y3iUPmsN12Whl51PTo6Mjf6PI1DbgBmz9P_LuybBYCmVvRRNy0U4585eUWQWLYf2tw8oDR5d8t8QvHzHV77qnvHe7b_jR4hhh5WYLj3yZp2xYZ8hZn9gpimAv_Cf0Chsv13SHF2ru7ihjtrzDXlLXc8VVuVlNbJre01xpIme7CHpByVs6oIBZAYdfyYIydtvS0ZeSgThMlqVICdsJd8nm6DUcvf3336ddLwS-G4QYBoCEvqlzKflpu-LR-8CWB-ELGcj-zkAnY9xHkfkXeKBWAvMhTZzd6tBpLvXCBGxlnLJfw7GU-FSIxQ9N_wtJKL0k0KV2vsnZrBoPb6Qx_QkVAVrS6xxZ2G_nmcBWaNToUSbc8DcqGKnASf06Kg7LpcUETdn8gbLR2AFuvBZGwBlFu6J6fQCf5ZihssUlDOnC7Ap5Tzq96H0720OzgOgieny3k1vKhtd9fW28TZWVAzZX5uVe6Q4vK1jVterVeINYQbO3Px2XNdcOuSH_w5QPox9dQ-aaeaC460je4KxI18RGHdWbMnOmrP3Abzqq88qlEDMc7ZcJxWgg_qMzSyR-AB9Coqs5mZxmsI5rdyWEwSZVa1qs5ztkgu524u5_DQOCm2MrrRf_g_oSop7-N2Gh-n31PgVTCUCrggJiGli_WfBID9nitY9LG3tTdL_4myOqBXRhIkFDyjM6Z7hoQNUtMgBPVy7rkCETUlNY6TE479yNiJ_O5BfE-TtXkGACmUs03CTijeMk4JbncnJlTLcYZ8AnN8vQ_HHpVoToiA67vOi0ptR-KD7UGe9u1gezI8QsTUjSXf9eSc-vJuIDPXYGXC6jhGU4GNzqW513kpcY9dg_cQHni4cRDRAJ-3GOpEeqL1C09Es0Rw5Q3Vyw66Pczn1teD6FgQD9o5TwRuVSgOHZVoV--PTA1YruVeAaXqIY-RuECzHrFVql5WPlabQBcxFpYUCsb5Q9UGi6SQfDIw==",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1747"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [
+              {
+                "default": false,
+                "price": {
+                  "amount": "124.88",
+                  "roundedFormattedValue": "125 Kč"
+                }
+              },
+              {
+                "default": false,
+                "price": {
+                  "amount": "624.39",
+                  "roundedFormattedValue": "624 Kč"
+                }
+              },
+              {
+                "default": true,
+                "price": {
+                  "amount": "249.76",
+                  "roundedFormattedValue": "250 Kč"
+                }
+              }
+            ],
+            "priceLocksEur": [
+              {
+                "default": false,
+                "price": {
+                  "amount": "5",
+                  "roundedFormattedValue": "5 €"
+                }
+              },
+              {
+                "default": false,
+                "price": {
+                  "amount": "25",
+                  "roundedFormattedValue": "25 €"
+                }
+              },
+              {
+                "default": true,
+                "price": {
+                  "amount": "10",
+                  "roundedFormattedValue": "10 €"
+                }
+              }
+            ]
+          },
+          "legacyId": "145c01af4d4400001f3a1be2_0-01af145c4d4c00002f948d5f_0",
+          "outbound": {
+            "id": "Sector:49adeb24bac4d35dee2db071c8df9388029993c2~49adeb24bac4d35dee2db071c8df9388029993c2",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:49adeb24bac4d35dee2db071c8df9388029993c2",
+                  "source": {
+                    "localTime": "2024-02-27T21:00:00",
+                    "utcTime": "2024-02-27T20:00:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-02-27T23:35:00",
+                    "utcTime": "2024-02-27T22:35:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9300,
+                  "type": "FLIGHT",
+                  "code": "8655",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9300
+          },
+          "inbound": {
+            "id": "Sector:6d33742bdaee55eeedd7bec07b2ff4217da8757e~6d33742bdaee55eeedd7bec07b2ff4217da8757e",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:6d33742bdaee55eeedd7bec07b2ff4217da8757e",
+                  "source": {
+                    "localTime": "2024-03-06T17:45:00",
+                    "utcTime": "2024-03-06T16:45:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-03-06T20:10:00",
+                    "utcTime": "2024-03-06T19:10:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 8700,
+                  "type": "FLIGHT",
+                  "code": "8654",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 8700
+          },
+          "stopover": {
+            "nightsCount": 8,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 11170
+          },
+          "lastAvailable": {
+            "seatsLeft": null
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2183.75"
+            },
+            "flexiFarePrice": {
+              "amount": "2371"
+            }
+          }
+        },
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTM6UFJHOjE3MzA3OTkwMDA6QkNOOjE3MzA4MDgwMDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzMyMDM0NzAwOlBSRzoxNzMyMDQzNDAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NzUifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1MzpQUkc6MTczMDc5OTAwMDpCQ046MTczMDgwODAwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTQ6QkNOOjE3MzIwMzQ3MDA6UFJHOjE3MzIwNDM0MDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZTQwMDAwMDRlMWRiNjUzXzAiLCIwMWFmMTQ1YzRlNGUwMDAwNTRhZjVjNmFfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1775",
+            "priceBeforeDiscount": "1775"
+          },
+          "priceEur": {
+            "amount": "71.06959988055503"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1348.57"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1558.63"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "GyJ6VHoSWiy8Kn03vF_YdffFAF0fBo4i9LLICitXwACgeP-PUeBdzlOF3A0SOALq2nsiUCZotZ0cg8Pn0oI4s48dKhjJ08712s9larDQIZTv66I-mOL7P_XFP7p_-oQzOG-Q3etHcC0vXw0Ly8fEnUs-lV82tV2rzV75KQNdYxAuIVAy7mLDUG8fDQaIeYRysuMwU5h_cCqKt-goqDoel2JQfc_vMSpnbLTEl-H-4eC-1XBr9vWdmxJVa8OYU7hj58W1P11I8OK4BEIieWXiq-N5D5xjk5ovvBXWO8x5McpTdjvcHqZU8IdR6qCOUzHQd9soO-526CBug2cjx9ZtxLH3INMHIZniRCYjVqFH0MEhsYberNJT8OU1tG9lSdFhMwenj0m4NOW1juEia6F9YuNveyVqYUklbrqqr_ks-R5A_ojCdhsO8Om7JnRQ7u6s3ekeV8apElbhqw9IFo4YCt6reAHK4jW5iwTN9y0qbAFnO4Uos_4lwCyAkazSweTmj5W9Jn1vkNl6tidcPJqQveAxjgq-gQJXjq-SIN8Nz6IA1p0ExJculabW89ROKCB3ErhPrmWu8FLU16tU40HDYqHfyxZSrkCDeIjCcMYjOY6WXh9b7gTbBqHIH17guaX5JQMV85ayh76ShF08x9bGmCMW53_9s-AoLjm9mEILW0GHnoqZfE9SY19K8THjqHFRwJ4UyPQq-FaQ6prdNjiFJYJ50sxrHuuvkx9RShYBNMlwdY61Ke-5UM9H_2VMdhpAW6Goxk4UP_BZfsl9lNByY_NLNA7SJWLj2aB3od-b8EAA=",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=GyJ6VHoSWiy8Kn03vF_YdffFAF0fBo4i9LLICitXwACgeP-PUeBdzlOF3A0SOALq2nsiUCZotZ0cg8Pn0oI4s48dKhjJ08712s9larDQIZTv66I-mOL7P_XFP7p_-oQzOG-Q3etHcC0vXw0Ly8fEnUs-lV82tV2rzV75KQNdYxAuIVAy7mLDUG8fDQaIeYRysuMwU5h_cCqKt-goqDoel2JQfc_vMSpnbLTEl-H-4eC-1XBr9vWdmxJVa8OYU7hj58W1P11I8OK4BEIieWXiq-N5D5xjk5ovvBXWO8x5McpTdjvcHqZU8IdR6qCOUzHQd9soO-526CBug2cjx9ZtxLH3INMHIZniRCYjVqFH0MEhsYberNJT8OU1tG9lSdFhMwenj0m4NOW1juEia6F9YuNveyVqYUklbrqqr_ks-R5A_ojCdhsO8Om7JnRQ7u6s3ekeV8apElbhqw9IFo4YCt6reAHK4jW5iwTN9y0qbAFnO4Uos_4lwCyAkazSweTmj5W9Jn1vkNl6tidcPJqQveAxjgq-gQJXjq-SIN8Nz6IA1p0ExJculabW89ROKCB3ErhPrmWu8FLU16tU40HDYqHfyxZSrkCDeIjCcMYjOY6WXh9b7gTbBqHIH17guaX5JQMV85ayh76ShF08x9bGmCMW53_9s-AoLjm9mEILW0GHnoqZfE9SY19K8THjqHFRwJ4UyPQq-FaQ6prdNjiFJYJ50sxrHuuvkx9RShYBNMlwdY61Ke-5UM9H_2VMdhpAW6Goxk4UP_BZfsl9lNByY_NLNA7SJWLj2aB3od-b8EAA%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4e4000004e1db653_0%7C01af145c4e4e000054af5c6a_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=GyJ6VHoSWiy8Kn03vF_YdffFAF0fBo4i9LLICitXwACgeP-PUeBdzlOF3A0SOALq2nsiUCZotZ0cg8Pn0oI4s48dKhjJ08712s9larDQIZTv66I-mOL7P_XFP7p_-oQzOG-Q3etHcC0vXw0Ly8fEnUs-lV82tV2rzV75KQNdYxAuIVAy7mLDUG8fDQaIeYRysuMwU5h_cCqKt-goqDoel2JQfc_vMSpnbLTEl-H-4eC-1XBr9vWdmxJVa8OYU7hj58W1P11I8OK4BEIieWXiq-N5D5xjk5ovvBXWO8x5McpTdjvcHqZU8IdR6qCOUzHQd9soO-526CBug2cjx9ZtxLH3INMHIZniRCYjVqFH0MEhsYberNJT8OU1tG9lSdFhMwenj0m4NOW1juEia6F9YuNveyVqYUklbrqqr_ks-R5A_ojCdhsO8Om7JnRQ7u6s3ekeV8apElbhqw9IFo4YCt6reAHK4jW5iwTN9y0qbAFnO4Uos_4lwCyAkazSweTmj5W9Jn1vkNl6tidcPJqQveAxjgq-gQJXjq-SIN8Nz6IA1p0ExJculabW89ROKCB3ErhPrmWu8FLU16tU40HDYqHfyxZSrkCDeIjCcMYjOY6WXh9b7gTbBqHIH17guaX5JQMV85ayh76ShF08x9bGmCMW53_9s-AoLjm9mEILW0GHnoqZfE9SY19K8THjqHFRwJ4UyPQq-FaQ6prdNjiFJYJ50sxrHuuvkx9RShYBNMlwdY61Ke-5UM9H_2VMdhpAW6Goxk4UP_BZfsl9lNByY_NLNA7SJWLj2aB3od-b8EAA=",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1775"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [],
+            "priceLocksEur": []
+          },
+          "legacyId": "145c01af4e4000004e1db653_0-01af145c4e4e000054af5c6a_0",
+          "outbound": {
+            "id": "Sector:b99b65eed58d8bc86a41f680f667755faed0b0d1~b99b65eed58d8bc86a41f680f667755faed0b0d1",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:b99b65eed58d8bc86a41f680f667755faed0b0d1",
+                  "source": {
+                    "localTime": "2024-11-05T10:30:00",
+                    "utcTime": "2024-11-05T09:30:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-05T13:00:00",
+                    "utcTime": "2024-11-05T12:00:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9000,
+                  "type": "FLIGHT",
+                  "code": "8653",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9000
+          },
+          "inbound": {
+            "id": "Sector:1fcae33a700660af5dc728e2515202c056140929~1fcae33a700660af5dc728e2515202c056140929",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:1fcae33a700660af5dc728e2515202c056140929",
+                  "source": {
+                    "localTime": "2024-11-19T17:45:00",
+                    "utcTime": "2024-11-19T16:45:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-19T20:10:00",
+                    "utcTime": "2024-11-19T19:10:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 8700,
+                  "type": "FLIGHT",
+                  "code": "8654",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 8700
+          },
+          "stopover": {
+            "nightsCount": 14,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 20445
+          },
+          "lastAvailable": {
+            "seatsLeft": null
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2218.75"
+            },
+            "flexiFarePrice": {
+              "amount": "2399"
+            }
+          }
+        },
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MzA4MzY1MDA6QkNOOjE3MzA4NDU4MDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzMyMDM0NzAwOlBSRzoxNzMyMDQzNDAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NzUifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1NTpQUkc6MTczMDgzNjUwMDpCQ046MTczMDg0NTgwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTQ6QkNOOjE3MzIwMzQ3MDA6UFJHOjE3MzIwNDM0MDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZTQwMDAwMGE3N2UxMzY2XzAiLCIwMWFmMTQ1YzRlNGUwMDAwNTRhZjVjNmFfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1775",
+            "priceBeforeDiscount": "1775"
+          },
+          "priceEur": {
+            "amount": "71.06959988055503"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1598.35"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1548.39"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "GY4qhr4_P4A-NWVfREbDv9rQ5KOKZp1ioHldELBH0tAXfZQ9ILIKbEBxuFZdMu0l0cUVqx1ui-aNIAmubDqAQSzIbIZLlUj8fehZMPJyxb9yaAbqyAJO8_HTcDKNzYd08ZhMwgWxXHe5cizHLlbGWM7EPlki-pJIkvttfgGyMJCuWg8sUJUTZ0mM0NoBNqkES9xLtWv_qjiOCNlFH5kL6PQxBWKkWl-WdsEd21x9r90iLkWN6pQ206sfPkMhQTRcH_GuASM4Dzs_LRudQjv6TbbO6sC6Y_IaPbcDpe5tZEtZIvVOssEj-i4FEIAsHlSebJxVkIxFcYBTIVHNXWsK5xwV2K5h1N50Ouh7HTuGXVumUH7nD1Yh7M-9pW1UmqG-F-MqUBNMiu3kO8bFbmiiRWU4rusCg1c03b6PK99Dq96rLXUaHoxQWhCWXgIblp8LXOjZZQvyUASgiYgUCioBYNEkGtRxZ-PfuVTRFwOwPKJvgUy1bcyo_LF6TSA8AjcD4q3laz1XQK375JxUKGRI96_gniP6Lm-EbVttp1uChHBJ3HnoCL-WmRbIublTfNlc2EyN94K6501EegxQ9ILaNCbxioCB9blldYidGNUYuXMpGT4oqLbOiHiWOft0rEF2lBSEHKikU3BHUx11SrrdtVRhCL648LNNbvWxzx7Zu7qCbBtmmZ6iGH_71oOLkzxRwjy9IX9N8gQTuwqf9pdLR53wxzE3BPWTNn29AKrZaohDIO4KtwlJuoik_slr34m0F9_Opqznx6DqoVUQC1E-Lcw==",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=GY4qhr4_P4A-NWVfREbDv9rQ5KOKZp1ioHldELBH0tAXfZQ9ILIKbEBxuFZdMu0l0cUVqx1ui-aNIAmubDqAQSzIbIZLlUj8fehZMPJyxb9yaAbqyAJO8_HTcDKNzYd08ZhMwgWxXHe5cizHLlbGWM7EPlki-pJIkvttfgGyMJCuWg8sUJUTZ0mM0NoBNqkES9xLtWv_qjiOCNlFH5kL6PQxBWKkWl-WdsEd21x9r90iLkWN6pQ206sfPkMhQTRcH_GuASM4Dzs_LRudQjv6TbbO6sC6Y_IaPbcDpe5tZEtZIvVOssEj-i4FEIAsHlSebJxVkIxFcYBTIVHNXWsK5xwV2K5h1N50Ouh7HTuGXVumUH7nD1Yh7M-9pW1UmqG-F-MqUBNMiu3kO8bFbmiiRWU4rusCg1c03b6PK99Dq96rLXUaHoxQWhCWXgIblp8LXOjZZQvyUASgiYgUCioBYNEkGtRxZ-PfuVTRFwOwPKJvgUy1bcyo_LF6TSA8AjcD4q3laz1XQK375JxUKGRI96_gniP6Lm-EbVttp1uChHBJ3HnoCL-WmRbIublTfNlc2EyN94K6501EegxQ9ILaNCbxioCB9blldYidGNUYuXMpGT4oqLbOiHiWOft0rEF2lBSEHKikU3BHUx11SrrdtVRhCL648LNNbvWxzx7Zu7qCbBtmmZ6iGH_71oOLkzxRwjy9IX9N8gQTuwqf9pdLR53wxzE3BPWTNn29AKrZaohDIO4KtwlJuoik_slr34m0F9_Opqznx6DqoVUQC1E-Lcw%3D%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4e400000a77e1366_0%7C01af145c4e4e000054af5c6a_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=GY4qhr4_P4A-NWVfREbDv9rQ5KOKZp1ioHldELBH0tAXfZQ9ILIKbEBxuFZdMu0l0cUVqx1ui-aNIAmubDqAQSzIbIZLlUj8fehZMPJyxb9yaAbqyAJO8_HTcDKNzYd08ZhMwgWxXHe5cizHLlbGWM7EPlki-pJIkvttfgGyMJCuWg8sUJUTZ0mM0NoBNqkES9xLtWv_qjiOCNlFH5kL6PQxBWKkWl-WdsEd21x9r90iLkWN6pQ206sfPkMhQTRcH_GuASM4Dzs_LRudQjv6TbbO6sC6Y_IaPbcDpe5tZEtZIvVOssEj-i4FEIAsHlSebJxVkIxFcYBTIVHNXWsK5xwV2K5h1N50Ouh7HTuGXVumUH7nD1Yh7M-9pW1UmqG-F-MqUBNMiu3kO8bFbmiiRWU4rusCg1c03b6PK99Dq96rLXUaHoxQWhCWXgIblp8LXOjZZQvyUASgiYgUCioBYNEkGtRxZ-PfuVTRFwOwPKJvgUy1bcyo_LF6TSA8AjcD4q3laz1XQK375JxUKGRI96_gniP6Lm-EbVttp1uChHBJ3HnoCL-WmRbIublTfNlc2EyN94K6501EegxQ9ILaNCbxioCB9blldYidGNUYuXMpGT4oqLbOiHiWOft0rEF2lBSEHKikU3BHUx11SrrdtVRhCL648LNNbvWxzx7Zu7qCbBtmmZ6iGH_71oOLkzxRwjy9IX9N8gQTuwqf9pdLR53wxzE3BPWTNn29AKrZaohDIO4KtwlJuoik_slr34m0F9_Opqznx6DqoVUQC1E-Lcw==",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1775"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [],
+            "priceLocksEur": []
+          },
+          "legacyId": "145c01af4e400000a77e1366_0-01af145c4e4e000054af5c6a_0",
+          "outbound": {
+            "id": "Sector:a7876083ee37ce1a3e45d7ce52091ec23d899712~a7876083ee37ce1a3e45d7ce52091ec23d899712",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:a7876083ee37ce1a3e45d7ce52091ec23d899712",
+                  "source": {
+                    "localTime": "2024-11-05T20:55:00",
+                    "utcTime": "2024-11-05T19:55:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-05T23:30:00",
+                    "utcTime": "2024-11-05T22:30:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9300,
+                  "type": "FLIGHT",
+                  "code": "8655",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9300
+          },
+          "inbound": {
+            "id": "Sector:1fcae33a700660af5dc728e2515202c056140929~1fcae33a700660af5dc728e2515202c056140929",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:1fcae33a700660af5dc728e2515202c056140929",
+                  "source": {
+                    "localTime": "2024-11-19T17:45:00",
+                    "utcTime": "2024-11-19T16:45:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-19T20:10:00",
+                    "utcTime": "2024-11-19T19:10:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 8700,
+                  "type": "FLIGHT",
+                  "code": "8654",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 8700
+          },
+          "stopover": {
+            "nightsCount": 14,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 19815
+          },
+          "lastAvailable": {
+            "seatsLeft": null
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2218.75"
+            },
+            "flexiFarePrice": {
+              "amount": "2399"
+            }
+          }
+        },
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MzA5MjI5MDA6QkNOOjE3MzA5MzIyMDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzMyMDM0NzAwOlBSRzoxNzMyMDQzNDAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NzUifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1NTpQUkc6MTczMDkyMjkwMDpCQ046MTczMDkzMjIwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTQ6QkNOOjE3MzIwMzQ3MDA6UFJHOjE3MzIwNDM0MDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZTQxMDAwMDA0ZTYwNTI0XzAiLCIwMWFmMTQ1YzRlNGUwMDAwNTRhZjVjNmFfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1775",
+            "priceBeforeDiscount": "1775"
+          },
+          "priceEur": {
+            "amount": "71.06959988055503"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1598.35"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1548.39"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "GGmAx94fBJt9WhxB8IUsW6Xdbc-DEmVFc4bzVrS_9YFKf6qas2gAy2PHJ2LhZdHaksveJrlzp2vBh84kAAIFdYrCo6hoQJL1aBtZTHyJAre7hm46jwO_nsV0KYFH-AA_hDN5oYmPGj-9WGRU7c972WK4Ns2KQ0e8zVRf8HF_HOugj_gmPjAcUzua30JOhYHVAaXkvGKYIBxotx1V_m8SlzpWI-GB9__SahEWMMgl3lRD5HBl_BCM6J-eb9_GBb_a-AZJI6sTvGb29O41vPT54l1uvGovIw9uVQepWJRcShHU91DkdF_64sWVCPDyfFKKZPRUePROnX0UKTUbr8Z2uEXDcm0mhLVFqQKYUnebGewCevzozwHqXQmmVXiW5ktSJZxejSphTJB8sZ9wvyRzyE2mfIdAaF17A4ZuS7Ym8KBO_NSlR-ErmdoqV_66p5ebXczxl43Ff-i07bU8pO1ukaRKwkBaZu95-MbkiCxxNCUo1ZpYk3txwVN_1fRPYg8UUb6Af43ceAD9tgRhU6Ep36XaHiJJ3e-fI6V1arlN9wRrnYpEaPsZyItlIiP1qh6ru0DFdKJe3SEPnwXYxYB6mQBYUL64MgcanpGfTWTPG8C1bDR_o1ej1rmXVDa1D8Rwr4NXe5bA_uHFSzKdU8mxbCsTpFGnXEHw73c4G4aUSH4zwBPufBrHUTqthKLfApFmnCkz8jUL9tOlrvJ1-2eo6SgnT9C1JZEVsx8HN9NdYrz-xhMz272Gll0V0WW38HSlikjwPQuBCkj9u-Fk4ZmbnTImWkn52XERbxntYjgB9_Ec=",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=GGmAx94fBJt9WhxB8IUsW6Xdbc-DEmVFc4bzVrS_9YFKf6qas2gAy2PHJ2LhZdHaksveJrlzp2vBh84kAAIFdYrCo6hoQJL1aBtZTHyJAre7hm46jwO_nsV0KYFH-AA_hDN5oYmPGj-9WGRU7c972WK4Ns2KQ0e8zVRf8HF_HOugj_gmPjAcUzua30JOhYHVAaXkvGKYIBxotx1V_m8SlzpWI-GB9__SahEWMMgl3lRD5HBl_BCM6J-eb9_GBb_a-AZJI6sTvGb29O41vPT54l1uvGovIw9uVQepWJRcShHU91DkdF_64sWVCPDyfFKKZPRUePROnX0UKTUbr8Z2uEXDcm0mhLVFqQKYUnebGewCevzozwHqXQmmVXiW5ktSJZxejSphTJB8sZ9wvyRzyE2mfIdAaF17A4ZuS7Ym8KBO_NSlR-ErmdoqV_66p5ebXczxl43Ff-i07bU8pO1ukaRKwkBaZu95-MbkiCxxNCUo1ZpYk3txwVN_1fRPYg8UUb6Af43ceAD9tgRhU6Ep36XaHiJJ3e-fI6V1arlN9wRrnYpEaPsZyItlIiP1qh6ru0DFdKJe3SEPnwXYxYB6mQBYUL64MgcanpGfTWTPG8C1bDR_o1ej1rmXVDa1D8Rwr4NXe5bA_uHFSzKdU8mxbCsTpFGnXEHw73c4G4aUSH4zwBPufBrHUTqthKLfApFmnCkz8jUL9tOlrvJ1-2eo6SgnT9C1JZEVsx8HN9NdYrz-xhMz272Gll0V0WW38HSlikjwPQuBCkj9u-Fk4ZmbnTImWkn52XERbxntYjgB9_Ec%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4e41000004e60524_0%7C01af145c4e4e000054af5c6a_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=GGmAx94fBJt9WhxB8IUsW6Xdbc-DEmVFc4bzVrS_9YFKf6qas2gAy2PHJ2LhZdHaksveJrlzp2vBh84kAAIFdYrCo6hoQJL1aBtZTHyJAre7hm46jwO_nsV0KYFH-AA_hDN5oYmPGj-9WGRU7c972WK4Ns2KQ0e8zVRf8HF_HOugj_gmPjAcUzua30JOhYHVAaXkvGKYIBxotx1V_m8SlzpWI-GB9__SahEWMMgl3lRD5HBl_BCM6J-eb9_GBb_a-AZJI6sTvGb29O41vPT54l1uvGovIw9uVQepWJRcShHU91DkdF_64sWVCPDyfFKKZPRUePROnX0UKTUbr8Z2uEXDcm0mhLVFqQKYUnebGewCevzozwHqXQmmVXiW5ktSJZxejSphTJB8sZ9wvyRzyE2mfIdAaF17A4ZuS7Ym8KBO_NSlR-ErmdoqV_66p5ebXczxl43Ff-i07bU8pO1ukaRKwkBaZu95-MbkiCxxNCUo1ZpYk3txwVN_1fRPYg8UUb6Af43ceAD9tgRhU6Ep36XaHiJJ3e-fI6V1arlN9wRrnYpEaPsZyItlIiP1qh6ru0DFdKJe3SEPnwXYxYB6mQBYUL64MgcanpGfTWTPG8C1bDR_o1ej1rmXVDa1D8Rwr4NXe5bA_uHFSzKdU8mxbCsTpFGnXEHw73c4G4aUSH4zwBPufBrHUTqthKLfApFmnCkz8jUL9tOlrvJ1-2eo6SgnT9C1JZEVsx8HN9NdYrz-xhMz272Gll0V0WW38HSlikjwPQuBCkj9u-Fk4ZmbnTImWkn52XERbxntYjgB9_Ec=",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1775"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [],
+            "priceLocksEur": []
+          },
+          "legacyId": "145c01af4e41000004e60524_0-01af145c4e4e000054af5c6a_0",
+          "outbound": {
+            "id": "Sector:228bcb295a9901d1f1eb0ed21243f6c3333e246f~228bcb295a9901d1f1eb0ed21243f6c3333e246f",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:228bcb295a9901d1f1eb0ed21243f6c3333e246f",
+                  "source": {
+                    "localTime": "2024-11-06T20:55:00",
+                    "utcTime": "2024-11-06T19:55:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-06T23:30:00",
+                    "utcTime": "2024-11-06T22:30:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9300,
+                  "type": "FLIGHT",
+                  "code": "8655",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9300
+          },
+          "inbound": {
+            "id": "Sector:1fcae33a700660af5dc728e2515202c056140929~1fcae33a700660af5dc728e2515202c056140929",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:1fcae33a700660af5dc728e2515202c056140929",
+                  "source": {
+                    "localTime": "2024-11-19T17:45:00",
+                    "utcTime": "2024-11-19T16:45:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-19T20:10:00",
+                    "utcTime": "2024-11-19T19:10:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 8700,
+                  "type": "FLIGHT",
+                  "code": "8654",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 8700
+          },
+          "stopover": {
+            "nightsCount": 13,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 18375
+          },
+          "lastAvailable": {
+            "seatsLeft": null
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2218.75"
+            },
+            "flexiFarePrice": {
+              "amount": "2399"
+            }
+          }
+        },
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MzAzMTgxMDA6QkNOOjE3MzAzMjc0MDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzMyMDM0NzAwOlBSRzoxNzMyMDQzNDAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NzUifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1NTpQUkc6MTczMDMxODEwMDpCQ046MTczMDMyNzQwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTQ6QkNOOjE3MzIwMzQ3MDA6UFJHOjE3MzIwNDM0MDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZTNhMDAwMGFiODU1MmQwXzAiLCIwMWFmMTQ1YzRlNGUwMDAwNTRhZjVjNmFfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1775",
+            "priceBeforeDiscount": "1775"
+          },
+          "priceEur": {
+            "amount": "71.06959988055503"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1598.35"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1548.39"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "G3zEX6v1P5e-NA6LGIopufLDxw_BKpy4fzRB3ISPGA29DT4C6vPFVluROhhEsBtqU7UNvCs9BOTY0jMUQeRinBDTmYwgSAOevulCoqpn3oeDgL17D1zCovxIIV1JJd6AvOd4GVFgnHk0VhRO1kfcgcI_eJBtZt9YD9nyMY8huZu80mY1sMHkMK8583gy3YQia5QckUvAz6U72WLQvdZUmqSck1jfo7UGBOs3butFFp2pQmnEAEqUl-TB6ND2tPwK704w9R8kYdqSgvAvla0xYPw0N3kDI7LlPTVtaVt2qJuobt2aJa1qcvdW8oZuifBYDVbGgRlRTw3JthYlrA0G89JZ_FngYSVeNVrYLvi8X9Piq_ail_oF7JCPKBZ9QD81iQXhZ3sjEzRI-xdU0l47Vj7KrIurPR7ukXeEbXR43y3KvxSwLtzmeR9jmJIZ1vZ05ME1qeb_iIoJU8RPU1lFynozybiyiHK1L23UNQvOO3EXm7wJsWwNVaPRaAxWlpm9OvBPLsrrGXGQa7BLxnHN_A4SVoiCrd_uB2n-a206j2BbH9mNKB8w2-UnZk2aWazeS6JJMN3SNwLQkb64rfnpi2zLS_bYusnE7R1cTV4muaAbihgZZ-EsoF3bd1e37OXZAivHhBsrn5jIPZMVru8Bn8xdoUCnFtexQGzbggxQG_PF-xeX09IijejNzneD2ag5Kkh9potsO7_sf5zkt6_CJVgvLjQ1oKO2N7Z5hiZ0rG33SMLixGv_aKGCBj8Ao1N7Cx-2wd4dsKrYs5iapLb3qVL0cJbXwv6LNbXHiMk4OYcA=",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=G3zEX6v1P5e-NA6LGIopufLDxw_BKpy4fzRB3ISPGA29DT4C6vPFVluROhhEsBtqU7UNvCs9BOTY0jMUQeRinBDTmYwgSAOevulCoqpn3oeDgL17D1zCovxIIV1JJd6AvOd4GVFgnHk0VhRO1kfcgcI_eJBtZt9YD9nyMY8huZu80mY1sMHkMK8583gy3YQia5QckUvAz6U72WLQvdZUmqSck1jfo7UGBOs3butFFp2pQmnEAEqUl-TB6ND2tPwK704w9R8kYdqSgvAvla0xYPw0N3kDI7LlPTVtaVt2qJuobt2aJa1qcvdW8oZuifBYDVbGgRlRTw3JthYlrA0G89JZ_FngYSVeNVrYLvi8X9Piq_ail_oF7JCPKBZ9QD81iQXhZ3sjEzRI-xdU0l47Vj7KrIurPR7ukXeEbXR43y3KvxSwLtzmeR9jmJIZ1vZ05ME1qeb_iIoJU8RPU1lFynozybiyiHK1L23UNQvOO3EXm7wJsWwNVaPRaAxWlpm9OvBPLsrrGXGQa7BLxnHN_A4SVoiCrd_uB2n-a206j2BbH9mNKB8w2-UnZk2aWazeS6JJMN3SNwLQkb64rfnpi2zLS_bYusnE7R1cTV4muaAbihgZZ-EsoF3bd1e37OXZAivHhBsrn5jIPZMVru8Bn8xdoUCnFtexQGzbggxQG_PF-xeX09IijejNzneD2ag5Kkh9potsO7_sf5zkt6_CJVgvLjQ1oKO2N7Z5hiZ0rG33SMLixGv_aKGCBj8Ao1N7Cx-2wd4dsKrYs5iapLb3qVL0cJbXwv6LNbXHiMk4OYcA%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4e3a0000ab8552d0_0%7C01af145c4e4e000054af5c6a_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=G3zEX6v1P5e-NA6LGIopufLDxw_BKpy4fzRB3ISPGA29DT4C6vPFVluROhhEsBtqU7UNvCs9BOTY0jMUQeRinBDTmYwgSAOevulCoqpn3oeDgL17D1zCovxIIV1JJd6AvOd4GVFgnHk0VhRO1kfcgcI_eJBtZt9YD9nyMY8huZu80mY1sMHkMK8583gy3YQia5QckUvAz6U72WLQvdZUmqSck1jfo7UGBOs3butFFp2pQmnEAEqUl-TB6ND2tPwK704w9R8kYdqSgvAvla0xYPw0N3kDI7LlPTVtaVt2qJuobt2aJa1qcvdW8oZuifBYDVbGgRlRTw3JthYlrA0G89JZ_FngYSVeNVrYLvi8X9Piq_ail_oF7JCPKBZ9QD81iQXhZ3sjEzRI-xdU0l47Vj7KrIurPR7ukXeEbXR43y3KvxSwLtzmeR9jmJIZ1vZ05ME1qeb_iIoJU8RPU1lFynozybiyiHK1L23UNQvOO3EXm7wJsWwNVaPRaAxWlpm9OvBPLsrrGXGQa7BLxnHN_A4SVoiCrd_uB2n-a206j2BbH9mNKB8w2-UnZk2aWazeS6JJMN3SNwLQkb64rfnpi2zLS_bYusnE7R1cTV4muaAbihgZZ-EsoF3bd1e37OXZAivHhBsrn5jIPZMVru8Bn8xdoUCnFtexQGzbggxQG_PF-xeX09IijejNzneD2ag5Kkh9potsO7_sf5zkt6_CJVgvLjQ1oKO2N7Z5hiZ0rG33SMLixGv_aKGCBj8Ao1N7Cx-2wd4dsKrYs5iapLb3qVL0cJbXwv6LNbXHiMk4OYcA=",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1775"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [],
+            "priceLocksEur": []
+          },
+          "legacyId": "145c01af4e3a0000ab8552d0_0-01af145c4e4e000054af5c6a_0",
+          "outbound": {
+            "id": "Sector:ec4b7b2404a5da22abf7c2eb0e432ef6693f47bc~ec4b7b2404a5da22abf7c2eb0e432ef6693f47bc",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:ec4b7b2404a5da22abf7c2eb0e432ef6693f47bc",
+                  "source": {
+                    "localTime": "2024-10-30T20:55:00",
+                    "utcTime": "2024-10-30T19:55:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-10-30T23:30:00",
+                    "utcTime": "2024-10-30T22:30:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9300,
+                  "type": "FLIGHT",
+                  "code": "8655",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9300
+          },
+          "inbound": {
+            "id": "Sector:1fcae33a700660af5dc728e2515202c056140929~1fcae33a700660af5dc728e2515202c056140929",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:1fcae33a700660af5dc728e2515202c056140929",
+                  "source": {
+                    "localTime": "2024-11-19T17:45:00",
+                    "utcTime": "2024-11-19T16:45:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-19T20:10:00",
+                    "utcTime": "2024-11-19T19:10:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 8700,
+                  "type": "FLIGHT",
+                  "code": "8654",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 8700
+          },
+          "stopover": {
+            "nightsCount": 20,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 28455
+          },
+          "lastAvailable": {
+            "seatsLeft": null
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2218.75"
+            },
+            "flexiFarePrice": {
+              "amount": "2399"
+            }
+          }
+        },
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MzA0MDY2MDA6QkNOOjE3MzA0MTU5MDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzMyMDM0NzAwOlBSRzoxNzMyMDQzNDAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NzUifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1NTpQUkc6MTczMDQwNjYwMDpCQ046MTczMDQxNTkwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTQ6QkNOOjE3MzIwMzQ3MDA6UFJHOjE3MzIwNDM0MDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZTNiMDAwMDgyOTRkMjJhXzAiLCIwMWFmMTQ1YzRlNGUwMDAwNTRhZjVjNmFfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1775",
+            "priceBeforeDiscount": "1775"
+          },
+          "priceEur": {
+            "amount": "71.06959988055503"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1598.35"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1548.39"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "GcTvd7PqEobbGTtwgQS-1b6ot7_y9jpTlXBhlWf_zhIrQbYZeB_2Z_8yj2Cc2rhsaXRNRi1dyvkPUpoW8uDs_kShEjJpsgVer0A8rKsDR25NaenXTIjSffFCFvLGP0iQi-gSInibgICtDWNrkHNWV-lfYnfb9GzBzNm-w7WwFVSvZf7ZE4vMtpWMDU3m6WGWE_1eS5xTxzRPsxXR5Cv3aGsRZEPm8kuQoFuI2paEOTLVFuvQeGsE0VzWEITwz0hpIvI-Vq7wEniwqYMoEUxnx0_qXkHVA8y8FknpAIhQPIvzW13i29rdfinsJD6_lCJzaS0PoekOtbKdV94Ae1lbYcN4CMIqNb03_CJMWXbviqGI17LWycBSZgqceSz_oEx1I09SzKMS3M6uSWC_eVGkHgho-zpaz2HKwHktPOp4q1JJeB5wtas22SIYIw9uvVOyYXqrtcgtFGhZJ8SyUZJpptBD-OM8T_vJyTLL75Xj3D2DcL8lraUpoHHW7AtkYuNa8WX_q20dXAN_kDJyy2NXvCRDw8fIXNS2KAcyl07_in2xFFVoNlS91apoWBay-WRT7iPO0dW14ml4DdCts-KXpda2L-QlAgvDDXO0MUr4OCVPoevfiFh3YJasDgu6BHB82e9fvU1Mo4xDV9KgS8S8MLuSOvghATyLkALpsTPJScPFLUbuosEChW4kj0iCNhzIejkE45nsImn2xoBnBZaJUqtwjTqSxGumHmbJBSP2Vc-I5vGsjfOkfqqNUem5HT1rDmPf5M1_PmkWGwEcvy1iIOvdm1YisepknyeYcTjH6xJo=",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=GcTvd7PqEobbGTtwgQS-1b6ot7_y9jpTlXBhlWf_zhIrQbYZeB_2Z_8yj2Cc2rhsaXRNRi1dyvkPUpoW8uDs_kShEjJpsgVer0A8rKsDR25NaenXTIjSffFCFvLGP0iQi-gSInibgICtDWNrkHNWV-lfYnfb9GzBzNm-w7WwFVSvZf7ZE4vMtpWMDU3m6WGWE_1eS5xTxzRPsxXR5Cv3aGsRZEPm8kuQoFuI2paEOTLVFuvQeGsE0VzWEITwz0hpIvI-Vq7wEniwqYMoEUxnx0_qXkHVA8y8FknpAIhQPIvzW13i29rdfinsJD6_lCJzaS0PoekOtbKdV94Ae1lbYcN4CMIqNb03_CJMWXbviqGI17LWycBSZgqceSz_oEx1I09SzKMS3M6uSWC_eVGkHgho-zpaz2HKwHktPOp4q1JJeB5wtas22SIYIw9uvVOyYXqrtcgtFGhZJ8SyUZJpptBD-OM8T_vJyTLL75Xj3D2DcL8lraUpoHHW7AtkYuNa8WX_q20dXAN_kDJyy2NXvCRDw8fIXNS2KAcyl07_in2xFFVoNlS91apoWBay-WRT7iPO0dW14ml4DdCts-KXpda2L-QlAgvDDXO0MUr4OCVPoevfiFh3YJasDgu6BHB82e9fvU1Mo4xDV9KgS8S8MLuSOvghATyLkALpsTPJScPFLUbuosEChW4kj0iCNhzIejkE45nsImn2xoBnBZaJUqtwjTqSxGumHmbJBSP2Vc-I5vGsjfOkfqqNUem5HT1rDmPf5M1_PmkWGwEcvy1iIOvdm1YisepknyeYcTjH6xJo%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4e3b00008294d22a_0%7C01af145c4e4e000054af5c6a_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=GcTvd7PqEobbGTtwgQS-1b6ot7_y9jpTlXBhlWf_zhIrQbYZeB_2Z_8yj2Cc2rhsaXRNRi1dyvkPUpoW8uDs_kShEjJpsgVer0A8rKsDR25NaenXTIjSffFCFvLGP0iQi-gSInibgICtDWNrkHNWV-lfYnfb9GzBzNm-w7WwFVSvZf7ZE4vMtpWMDU3m6WGWE_1eS5xTxzRPsxXR5Cv3aGsRZEPm8kuQoFuI2paEOTLVFuvQeGsE0VzWEITwz0hpIvI-Vq7wEniwqYMoEUxnx0_qXkHVA8y8FknpAIhQPIvzW13i29rdfinsJD6_lCJzaS0PoekOtbKdV94Ae1lbYcN4CMIqNb03_CJMWXbviqGI17LWycBSZgqceSz_oEx1I09SzKMS3M6uSWC_eVGkHgho-zpaz2HKwHktPOp4q1JJeB5wtas22SIYIw9uvVOyYXqrtcgtFGhZJ8SyUZJpptBD-OM8T_vJyTLL75Xj3D2DcL8lraUpoHHW7AtkYuNa8WX_q20dXAN_kDJyy2NXvCRDw8fIXNS2KAcyl07_in2xFFVoNlS91apoWBay-WRT7iPO0dW14ml4DdCts-KXpda2L-QlAgvDDXO0MUr4OCVPoevfiFh3YJasDgu6BHB82e9fvU1Mo4xDV9KgS8S8MLuSOvghATyLkALpsTPJScPFLUbuosEChW4kj0iCNhzIejkE45nsImn2xoBnBZaJUqtwjTqSxGumHmbJBSP2Vc-I5vGsjfOkfqqNUem5HT1rDmPf5M1_PmkWGwEcvy1iIOvdm1YisepknyeYcTjH6xJo=",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1775"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [],
+            "priceLocksEur": []
+          },
+          "legacyId": "145c01af4e3b00008294d22a_0-01af145c4e4e000054af5c6a_0",
+          "outbound": {
+            "id": "Sector:15d214bf91d7b96aa7fd17e412695e4fe7370ca8~15d214bf91d7b96aa7fd17e412695e4fe7370ca8",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:15d214bf91d7b96aa7fd17e412695e4fe7370ca8",
+                  "source": {
+                    "localTime": "2024-10-31T21:30:00",
+                    "utcTime": "2024-10-31T20:30:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-01T00:05:00",
+                    "utcTime": "2024-10-31T23:05:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9300,
+                  "type": "FLIGHT",
+                  "code": "8655",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9300
+          },
+          "inbound": {
+            "id": "Sector:1fcae33a700660af5dc728e2515202c056140929~1fcae33a700660af5dc728e2515202c056140929",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:1fcae33a700660af5dc728e2515202c056140929",
+                  "source": {
+                    "localTime": "2024-11-19T17:45:00",
+                    "utcTime": "2024-11-19T16:45:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-19T20:10:00",
+                    "utcTime": "2024-11-19T19:10:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 8700,
+                  "type": "FLIGHT",
+                  "code": "8654",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 8700
+          },
+          "stopover": {
+            "nightsCount": 18,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 26980
+          },
+          "lastAvailable": {
+            "seatsLeft": null
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2218.75"
+            },
+            "flexiFarePrice": {
+              "amount": "2399"
+            }
+          }
+        },
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MzA3NTIyMDA6QkNOOjE3MzA3NjE1MDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzMyMDM0NzAwOlBSRzoxNzMyMDQzNDAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NzUifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1NTpQUkc6MTczMDc1MjIwMDpCQ046MTczMDc2MTUwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTQ6QkNOOjE3MzIwMzQ3MDA6UFJHOjE3MzIwNDM0MDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZTNmMDAwMDM4YTk0MWMzXzAiLCIwMWFmMTQ1YzRlNGUwMDAwNTRhZjVjNmFfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1775",
+            "priceBeforeDiscount": "1775"
+          },
+          "priceEur": {
+            "amount": "71.06959988055503"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1598.35"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1548.39"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "G2VoclGfGcPvzSwgwQGyZkmiwb4ochkPfjPGPognTdXLYQ3gxlKOBRXmapEs_pduKCmrXMGF-gf7rOpeM8XrYb_Y42L_5qi2RLzaIdbPl5vxZLrzAkomdl4bE6U3TbAFI890zLL2y7esgL6AQGLERYPd1qhILSAy9ZpyZqpdhVW7VK7zFrMvjHvoeA3Y5ltpUHie4rCNilOUeP8F8a3ae5T0uHUl3eErVBLDJVQnL6dwK1A1W4MFKP5qTULdB7pMTi0Rz5jApsYIuusaxRKCN0J1r-qEQKun2xokO5WvHjDn5vJsw6LRlM_U0Sni68HarDfI8KXjKoOOG0Wa9RrKnroZY8D3kZO-Oq3elfjQ8Y39xn4ywyklH9UI08blMxcScOqHGS2akj4g2cNTi7yndE0lC6S_KKsX-_X_SkSTPYeF_RE-_-eP7jzrj2m08o1jjWks7g7qKrNYkS6RtdUgeH1XR7VD0pNtzHu2oLLUcqfYKCxr6BvZBW-F1hGRDd4CvqRy1blBRgmyG92z_0rGzshUsU6qatc9Z_-BrHcJdMujoAvo6-Z0xZmjJ1rJQhDCbM6JMdVAK6GBWR1ccWtQWGWQmZg95qW6__TGvX6sPnfAqaEajhEh9Im57KBgkIp89riDA2S2PCY-95RkddQCC_LQHHmg6ikA-CYuFBk2U1Zr_aSSquSLJuKi9NOpWCQ_9nonro0ZglKgnY4EHH062vFufHo7rbxcsBLgJx6fJU6FkJQdZ_kr9uwYqOLaTD-D0TNHfZFD1l42TyllG2IS57N-0PWvbSGb6nrkc5gdlBeQ=",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=G2VoclGfGcPvzSwgwQGyZkmiwb4ochkPfjPGPognTdXLYQ3gxlKOBRXmapEs_pduKCmrXMGF-gf7rOpeM8XrYb_Y42L_5qi2RLzaIdbPl5vxZLrzAkomdl4bE6U3TbAFI890zLL2y7esgL6AQGLERYPd1qhILSAy9ZpyZqpdhVW7VK7zFrMvjHvoeA3Y5ltpUHie4rCNilOUeP8F8a3ae5T0uHUl3eErVBLDJVQnL6dwK1A1W4MFKP5qTULdB7pMTi0Rz5jApsYIuusaxRKCN0J1r-qEQKun2xokO5WvHjDn5vJsw6LRlM_U0Sni68HarDfI8KXjKoOOG0Wa9RrKnroZY8D3kZO-Oq3elfjQ8Y39xn4ywyklH9UI08blMxcScOqHGS2akj4g2cNTi7yndE0lC6S_KKsX-_X_SkSTPYeF_RE-_-eP7jzrj2m08o1jjWks7g7qKrNYkS6RtdUgeH1XR7VD0pNtzHu2oLLUcqfYKCxr6BvZBW-F1hGRDd4CvqRy1blBRgmyG92z_0rGzshUsU6qatc9Z_-BrHcJdMujoAvo6-Z0xZmjJ1rJQhDCbM6JMdVAK6GBWR1ccWtQWGWQmZg95qW6__TGvX6sPnfAqaEajhEh9Im57KBgkIp89riDA2S2PCY-95RkddQCC_LQHHmg6ikA-CYuFBk2U1Zr_aSSquSLJuKi9NOpWCQ_9nonro0ZglKgnY4EHH062vFufHo7rbxcsBLgJx6fJU6FkJQdZ_kr9uwYqOLaTD-D0TNHfZFD1l42TyllG2IS57N-0PWvbSGb6nrkc5gdlBeQ%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4e3f000038a941c3_0%7C01af145c4e4e000054af5c6a_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=G2VoclGfGcPvzSwgwQGyZkmiwb4ochkPfjPGPognTdXLYQ3gxlKOBRXmapEs_pduKCmrXMGF-gf7rOpeM8XrYb_Y42L_5qi2RLzaIdbPl5vxZLrzAkomdl4bE6U3TbAFI890zLL2y7esgL6AQGLERYPd1qhILSAy9ZpyZqpdhVW7VK7zFrMvjHvoeA3Y5ltpUHie4rCNilOUeP8F8a3ae5T0uHUl3eErVBLDJVQnL6dwK1A1W4MFKP5qTULdB7pMTi0Rz5jApsYIuusaxRKCN0J1r-qEQKun2xokO5WvHjDn5vJsw6LRlM_U0Sni68HarDfI8KXjKoOOG0Wa9RrKnroZY8D3kZO-Oq3elfjQ8Y39xn4ywyklH9UI08blMxcScOqHGS2akj4g2cNTi7yndE0lC6S_KKsX-_X_SkSTPYeF_RE-_-eP7jzrj2m08o1jjWks7g7qKrNYkS6RtdUgeH1XR7VD0pNtzHu2oLLUcqfYKCxr6BvZBW-F1hGRDd4CvqRy1blBRgmyG92z_0rGzshUsU6qatc9Z_-BrHcJdMujoAvo6-Z0xZmjJ1rJQhDCbM6JMdVAK6GBWR1ccWtQWGWQmZg95qW6__TGvX6sPnfAqaEajhEh9Im57KBgkIp89riDA2S2PCY-95RkddQCC_LQHHmg6ikA-CYuFBk2U1Zr_aSSquSLJuKi9NOpWCQ_9nonro0ZglKgnY4EHH062vFufHo7rbxcsBLgJx6fJU6FkJQdZ_kr9uwYqOLaTD-D0TNHfZFD1l42TyllG2IS57N-0PWvbSGb6nrkc5gdlBeQ=",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1775"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [],
+            "priceLocksEur": []
+          },
+          "legacyId": "145c01af4e3f000038a941c3_0-01af145c4e4e000054af5c6a_0",
+          "outbound": {
+            "id": "Sector:0e5a1f115ef1707c0ab19db30a46e8f9e4a6c64c~0e5a1f115ef1707c0ab19db30a46e8f9e4a6c64c",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:0e5a1f115ef1707c0ab19db30a46e8f9e4a6c64c",
+                  "source": {
+                    "localTime": "2024-11-04T21:30:00",
+                    "utcTime": "2024-11-04T20:30:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-05T00:05:00",
+                    "utcTime": "2024-11-04T23:05:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9300,
+                  "type": "FLIGHT",
+                  "code": "8655",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9300
+          },
+          "inbound": {
+            "id": "Sector:1fcae33a700660af5dc728e2515202c056140929~1fcae33a700660af5dc728e2515202c056140929",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:1fcae33a700660af5dc728e2515202c056140929",
+                  "source": {
+                    "localTime": "2024-11-19T17:45:00",
+                    "utcTime": "2024-11-19T16:45:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-19T20:10:00",
+                    "utcTime": "2024-11-19T19:10:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 8700,
+                  "type": "FLIGHT",
+                  "code": "8654",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 8700
+          },
+          "stopover": {
+            "nightsCount": 14,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 21220
+          },
+          "lastAvailable": {
+            "seatsLeft": null
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2218.75"
+            },
+            "flexiFarePrice": {
+              "amount": "2399"
+            }
+          }
+        },
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTU6UFJHOjE3MzA0OTMwMDA6QkNOOjE3MzA1MDIzMDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjU0OkJDTjoxNzMyMDM0NzAwOlBSRzoxNzMyMDQzNDAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NzUifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1NTpQUkc6MTczMDQ5MzAwMDpCQ046MTczMDUwMjMwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTQ6QkNOOjE3MzIwMzQ3MDA6UFJHOjE3MzIwNDM0MDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZTNjMDAwMGJjY2Y5NTgxXzAiLCIwMWFmMTQ1YzRlNGUwMDAwNTRhZjVjNmFfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1775",
+            "priceBeforeDiscount": "1775"
+          },
+          "priceEur": {
+            "amount": "71.06959988055503"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1598.35"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1548.39"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "GhrL0ocb9ZMtB4LTukqCog5RuZPizwFeb-OkahdWQ8RXQNltvDky8W0hZw88UKsxEVLLxk_nGigGBluf9UYBn5FTzBxfWqh8OSvUwbPZmkXN9xefbN5X_FFfpMhiy3uGaM3JF9HGjD3lu8N4wI3RhfxAX2fIBk68tlqXRdZhdzmp9fzrldl_dNcPIBKU6SfGoqrNL4KWZxeKOqOnR5Aw97CIO1cSAqoxmYot2Rg6WX4Y9Rh5hp-KTbni87MzC6dRdqENedJLFWdgmO4TgJIeoy17O4xNQk2y48I5_Raq8hmuiIt6Ks7__meuCSzLVE9D1F_708Ucs_rBBuhx-NAOwqY_IkOWlKsm47PNoSMtjEawX64sdrMETPSJ2zQNuuCE1_Igma198Wg7TupUbiZXrmtrYCsm4vNWTl3NoZJS1kbc5i2tp7okFLO06-QUzJVMDbclQW2L-BISH-wRXtxvAQVWQMQaANut5JTlhj3SnnwRbk0sNNGMulGHPt74DbKMfBx4ZyiiD4RVNBAQbZrhjXunXwfWtwPkCDOlkqFLyqoNDhnfnhN_JROEu6foO2Esq5U8wbUgN5k5wyqoSLxFHHtQh3abLWRVj-oYUn6G4aKIH7k9IW7hZeGp0hJ_rTGdjv6eN6IjSYN7CWfvZiBWrGFS_TSZDL-r0iluxyWb72wdxc-shO8abWl3VxQwbrngS3YO9d2KjYQyixAvB8XxEc933LXLNCdOrWgpQDystjy3Vv0cLn-ZYuQz5aTlMqrWmbcG9JGf-Y1jdu39ySxjvaQ==",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=GhrL0ocb9ZMtB4LTukqCog5RuZPizwFeb-OkahdWQ8RXQNltvDky8W0hZw88UKsxEVLLxk_nGigGBluf9UYBn5FTzBxfWqh8OSvUwbPZmkXN9xefbN5X_FFfpMhiy3uGaM3JF9HGjD3lu8N4wI3RhfxAX2fIBk68tlqXRdZhdzmp9fzrldl_dNcPIBKU6SfGoqrNL4KWZxeKOqOnR5Aw97CIO1cSAqoxmYot2Rg6WX4Y9Rh5hp-KTbni87MzC6dRdqENedJLFWdgmO4TgJIeoy17O4xNQk2y48I5_Raq8hmuiIt6Ks7__meuCSzLVE9D1F_708Ucs_rBBuhx-NAOwqY_IkOWlKsm47PNoSMtjEawX64sdrMETPSJ2zQNuuCE1_Igma198Wg7TupUbiZXrmtrYCsm4vNWTl3NoZJS1kbc5i2tp7okFLO06-QUzJVMDbclQW2L-BISH-wRXtxvAQVWQMQaANut5JTlhj3SnnwRbk0sNNGMulGHPt74DbKMfBx4ZyiiD4RVNBAQbZrhjXunXwfWtwPkCDOlkqFLyqoNDhnfnhN_JROEu6foO2Esq5U8wbUgN5k5wyqoSLxFHHtQh3abLWRVj-oYUn6G4aKIH7k9IW7hZeGp0hJ_rTGdjv6eN6IjSYN7CWfvZiBWrGFS_TSZDL-r0iluxyWb72wdxc-shO8abWl3VxQwbrngS3YO9d2KjYQyixAvB8XxEc933LXLNCdOrWgpQDystjy3Vv0cLn-ZYuQz5aTlMqrWmbcG9JGf-Y1jdu39ySxjvaQ%3D%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4e3c0000bccf9581_0%7C01af145c4e4e000054af5c6a_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=GhrL0ocb9ZMtB4LTukqCog5RuZPizwFeb-OkahdWQ8RXQNltvDky8W0hZw88UKsxEVLLxk_nGigGBluf9UYBn5FTzBxfWqh8OSvUwbPZmkXN9xefbN5X_FFfpMhiy3uGaM3JF9HGjD3lu8N4wI3RhfxAX2fIBk68tlqXRdZhdzmp9fzrldl_dNcPIBKU6SfGoqrNL4KWZxeKOqOnR5Aw97CIO1cSAqoxmYot2Rg6WX4Y9Rh5hp-KTbni87MzC6dRdqENedJLFWdgmO4TgJIeoy17O4xNQk2y48I5_Raq8hmuiIt6Ks7__meuCSzLVE9D1F_708Ucs_rBBuhx-NAOwqY_IkOWlKsm47PNoSMtjEawX64sdrMETPSJ2zQNuuCE1_Igma198Wg7TupUbiZXrmtrYCsm4vNWTl3NoZJS1kbc5i2tp7okFLO06-QUzJVMDbclQW2L-BISH-wRXtxvAQVWQMQaANut5JTlhj3SnnwRbk0sNNGMulGHPt74DbKMfBx4ZyiiD4RVNBAQbZrhjXunXwfWtwPkCDOlkqFLyqoNDhnfnhN_JROEu6foO2Esq5U8wbUgN5k5wyqoSLxFHHtQh3abLWRVj-oYUn6G4aKIH7k9IW7hZeGp0hJ_rTGdjv6eN6IjSYN7CWfvZiBWrGFS_TSZDL-r0iluxyWb72wdxc-shO8abWl3VxQwbrngS3YO9d2KjYQyixAvB8XxEc933LXLNCdOrWgpQDystjy3Vv0cLn-ZYuQz5aTlMqrWmbcG9JGf-Y1jdu39ySxjvaQ==",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1775"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [],
+            "priceLocksEur": []
+          },
+          "legacyId": "145c01af4e3c0000bccf9581_0-01af145c4e4e000054af5c6a_0",
+          "outbound": {
+            "id": "Sector:74e6c105c066d3128e57d1ffb5ffcdc93633ce9e~74e6c105c066d3128e57d1ffb5ffcdc93633ce9e",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:74e6c105c066d3128e57d1ffb5ffcdc93633ce9e",
+                  "source": {
+                    "localTime": "2024-11-01T21:30:00",
+                    "utcTime": "2024-11-01T20:30:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-02T00:05:00",
+                    "utcTime": "2024-11-01T23:05:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9300,
+                  "type": "FLIGHT",
+                  "code": "8655",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9300
+          },
+          "inbound": {
+            "id": "Sector:1fcae33a700660af5dc728e2515202c056140929~1fcae33a700660af5dc728e2515202c056140929",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:1fcae33a700660af5dc728e2515202c056140929",
+                  "source": {
+                    "localTime": "2024-11-19T17:45:00",
+                    "utcTime": "2024-11-19T16:45:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-19T20:10:00",
+                    "utcTime": "2024-11-19T19:10:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 8700,
+                  "type": "FLIGHT",
+                  "code": "8654",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 8700
+          },
+          "stopover": {
+            "nightsCount": 17,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 25540
+          },
+          "lastAvailable": {
+            "seatsLeft": null
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2218.75"
+            },
+            "flexiFarePrice": {
+              "amount": "2399"
+            }
+          }
+        },
+        {
+          "__typename": "ItineraryReturn",
+          "__isItinerary": "ItineraryReturn",
+          "id": "ItineraryReturn:eyJwcm92aWRlcnMiOiJLSVdJIiwicm91dGVfZGF0YSI6IlZZOjg2NTM6UFJHOjE3MzA3OTkwMDA6QkNOOjE3MzA4MDgwMDA6ZWNvbm9teTpGYWxzZTo6OnxWWTo4NjUyOkJDTjoxNzMxNDc4ODAwOlBSRzoxNzMxNDg3ODAwOmVjb25vbXk6RmFsc2U6OjoiLCJwcmljZSI6IjE3NzUifQ==",
+          "shareId": "eyJyIjoiVlk6ODY1MzpQUkc6MTczMDc5OTAwMDpCQ046MTczMDgwODAwMDplY29ub215OkZhbHNlOjo6fFZZOjg2NTI6QkNOOjE3MzE0Nzg4MDA6UFJHOjE3MzE0ODc4MDA6ZWNvbm9teTpGYWxzZTo6OiIsImkiOlsiMTQ1YzAxYWY0ZTQwMDAwMDRlMWRiNjUzXzAiLCIwMWFmMTQ1YzRlNDgwMDAwZDgxMTQyMTlfMCJdLCJ0aGMiOjAsInRhdCI6MCwidmkiOjAsInQiOiJSVCJ9",
+          "price": {
+            "amount": "1775",
+            "priceBeforeDiscount": "1775"
+          },
+          "priceEur": {
+            "amount": "71.06959988055503"
+          },
+          "provider": {
+            "name": "Kiwi.com",
+            "code": "KIWI",
+            "hasHighProbabilityOfPriceChange": false,
+            "contentProvider": {
+              "code": "KIWI"
+            },
+            "id": "ItineraryProvider:KIWI"
+          },
+          "bagsInfo": {
+            "includedCheckedBags": 0,
+            "includedHandBags": 0,
+            "hasNoBaggageSupported": false,
+            "hasNoCheckedBaggage": false,
+            "checkedBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1598.35"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 20
+                    }
+                  }
+                ]
+              }
+            ],
+            "handBagTiers": [
+              {
+                "tierPrice": {
+                  "amount": "1808.41"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    }
+                  }
+                ]
+              }
+            ],
+            "includedPersonalItem": 1,
+            "personalItemTiers": [
+              {
+                "tierPrice": {
+                  "amount": "0"
+                },
+                "bags": [
+                  {
+                    "weight": {
+                      "value": 10
+                    },
+                    "height": {
+                      "value": 30
+                    },
+                    "width": {
+                      "value": 20
+                    },
+                    "length": {
+                      "value": 40
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "bookingOptions": {
+            "edges": [
+              {
+                "node": {
+                  "token": "GjrELTBpUXyISZLhgclQPnQkjfXj85Y3MvocePsFd5QgJy1FYJdjT6StHoO5UBA9pSABp9uVgRQ6V3Tete6UdjAddYJqNQSXhgOju7nWS3Xt9RwB38DC7NXc1THdqZBbu135UM7D4jkRBFFgjDj3IzwoDUKNYsqBskzHR_4a5zUMozHtMCYLTY9_XvvqAN9aiIuEOJYMkH3u02DXJRxokaGrPSjjdZ5ku7qWLNMK_V8oobIoyfbMQQIbwV9vSCyIk_KoxBa3HzQPb_pWNjakInzm7Py_VYEGJK10gp5UvG3SdNx8pyVyJY73szsCP6rfV1RcrT1ii4qHZmNmUuMlRvz1cDYNuVqHq7T5bbUvxskGq3y6T78DuIKmE3DVy0NTiHSqXs4_ZSnybdZmkJAa4RiFqzq44bHzZgouq_uxruKWvfWsMDYTrWeJX9IRfqrltTgzkCqFMPphYLvHfU-vM77ICHu-NiCpXMRU8bgd8l3h7rTYBkbGMthFyF4qivaCjjj6Xy-KmR4IFPgxCFv1Kf_ulqNvX5Q1Fax88cixrJlzJtMU1G4lT0rRf3ZmNUtm37w7lI6QYRiLo3F0OU-V398Wzp1YMsEz3nzW8QdCkK5d-Ph_gr7TumZkLGmoJa0KHI4KqE4jMy8OIHHHm9K5pJ-RaGHJ3IMHvtnzIDt_d9iw_LUdVIVYvSfqZUVkal_xqNSExWanN786ItyTQWcxcVKRTyDbJCg6zMlRrqM731PEAlFzvFxUzNJlNN_7xM5-8YxKd2w29AA3pi8kR9a5qF5UwjUKJ-CAuwBTxk-9gg3A=",
+                  "bookingUrl": "/en/booking?direct=true&locale=en&currency=czk&passengers=1-0-0&token=GjrELTBpUXyISZLhgclQPnQkjfXj85Y3MvocePsFd5QgJy1FYJdjT6StHoO5UBA9pSABp9uVgRQ6V3Tete6UdjAddYJqNQSXhgOju7nWS3Xt9RwB38DC7NXc1THdqZBbu135UM7D4jkRBFFgjDj3IzwoDUKNYsqBskzHR_4a5zUMozHtMCYLTY9_XvvqAN9aiIuEOJYMkH3u02DXJRxokaGrPSjjdZ5ku7qWLNMK_V8oobIoyfbMQQIbwV9vSCyIk_KoxBa3HzQPb_pWNjakInzm7Py_VYEGJK10gp5UvG3SdNx8pyVyJY73szsCP6rfV1RcrT1ii4qHZmNmUuMlRvz1cDYNuVqHq7T5bbUvxskGq3y6T78DuIKmE3DVy0NTiHSqXs4_ZSnybdZmkJAa4RiFqzq44bHzZgouq_uxruKWvfWsMDYTrWeJX9IRfqrltTgzkCqFMPphYLvHfU-vM77ICHu-NiCpXMRU8bgd8l3h7rTYBkbGMthFyF4qivaCjjj6Xy-KmR4IFPgxCFv1Kf_ulqNvX5Q1Fax88cixrJlzJtMU1G4lT0rRf3ZmNUtm37w7lI6QYRiLo3F0OU-V398Wzp1YMsEz3nzW8QdCkK5d-Ph_gr7TumZkLGmoJa0KHI4KqE4jMy8OIHHHm9K5pJ-RaGHJ3IMHvtnzIDt_d9iw_LUdVIVYvSfqZUVkal_xqNSExWanN786ItyTQWcxcVKRTyDbJCg6zMlRrqM731PEAlFzvFxUzNJlNN_7xM5-8YxKd2w29AA3pi8kR9a5qF5UwjUKJ-CAuwBTxk-9gg3A%3D&searchType=return&searchBags=0.0",
+                  "trackingPixel": "https://www.kiwi.com/pixel?affilid=skypicker&currency=CZK&flightsId=145c01af4e4000004e1db653_0%7C01af145c4e480000d8114219_0&from=PRG&lang=en&passengers=1&searchBags=0.0&to=BCN&booking_token=GjrELTBpUXyISZLhgclQPnQkjfXj85Y3MvocePsFd5QgJy1FYJdjT6StHoO5UBA9pSABp9uVgRQ6V3Tete6UdjAddYJqNQSXhgOju7nWS3Xt9RwB38DC7NXc1THdqZBbu135UM7D4jkRBFFgjDj3IzwoDUKNYsqBskzHR_4a5zUMozHtMCYLTY9_XvvqAN9aiIuEOJYMkH3u02DXJRxokaGrPSjjdZ5ku7qWLNMK_V8oobIoyfbMQQIbwV9vSCyIk_KoxBa3HzQPb_pWNjakInzm7Py_VYEGJK10gp5UvG3SdNx8pyVyJY73szsCP6rfV1RcrT1ii4qHZmNmUuMlRvz1cDYNuVqHq7T5bbUvxskGq3y6T78DuIKmE3DVy0NTiHSqXs4_ZSnybdZmkJAa4RiFqzq44bHzZgouq_uxruKWvfWsMDYTrWeJX9IRfqrltTgzkCqFMPphYLvHfU-vM77ICHu-NiCpXMRU8bgd8l3h7rTYBkbGMthFyF4qivaCjjj6Xy-KmR4IFPgxCFv1Kf_ulqNvX5Q1Fax88cixrJlzJtMU1G4lT0rRf3ZmNUtm37w7lI6QYRiLo3F0OU-V398Wzp1YMsEz3nzW8QdCkK5d-Ph_gr7TumZkLGmoJa0KHI4KqE4jMy8OIHHHm9K5pJ-RaGHJ3IMHvtnzIDt_d9iw_LUdVIVYvSfqZUVkal_xqNSExWanN786ItyTQWcxcVKRTyDbJCg6zMlRrqM731PEAlFzvFxUzNJlNN_7xM5-8YxKd2w29AA3pi8kR9a5qF5UwjUKJ-CAuwBTxk-9gg3A=",
+                  "itineraryProvider": {
+                    "code": "KIWI",
+                    "name": "Kiwi.com",
+                    "subprovider": null,
+                    "hasHighProbabilityOfPriceChange": false,
+                    "contentProvider": {
+                      "code": "KIWI"
+                    },
+                    "id": "ItineraryProvider:KIWI"
+                  },
+                  "price": {
+                    "amount": "1775"
+                  }
+                }
+              }
+            ]
+          },
+          "travelHack": {
+            "isTrueHiddenCity": false,
+            "isVirtualInterlining": false,
+            "isThrowawayTicket": false
+          },
+          "priceLocks": {
+            "priceLocksCurr": [],
+            "priceLocksEur": []
+          },
+          "legacyId": "145c01af4e4000004e1db653_0-01af145c4e480000d8114219_0",
+          "outbound": {
+            "id": "Sector:b99b65eed58d8bc86a41f680f667755faed0b0d1~b99b65eed58d8bc86a41f680f667755faed0b0d1",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:b99b65eed58d8bc86a41f680f667755faed0b0d1",
+                  "source": {
+                    "localTime": "2024-11-05T10:30:00",
+                    "utcTime": "2024-11-05T09:30:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-05T13:00:00",
+                    "utcTime": "2024-11-05T12:00:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "duration": 9000,
+                  "type": "FLIGHT",
+                  "code": "8653",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9000
+          },
+          "inbound": {
+            "id": "Sector:c921d4da745ebe3a3469a8d5e0072f72ec609bc5~c921d4da745ebe3a3469a8d5e0072f72ec609bc5",
+            "sectorSegments": [
+              {
+                "guarantee": null,
+                "segment": {
+                  "id": "Segment:c921d4da745ebe3a3469a8d5e0072f72ec609bc5",
+                  "source": {
+                    "localTime": "2024-11-13T07:20:00",
+                    "utcTime": "2024-11-13T06:20:00",
+                    "station": {
+                      "id": "Station:airport:BCN",
+                      "legacyId": "BCN",
+                      "name": "Barcelona–El Prat",
+                      "code": "BCN",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 41.2969444,
+                        "lng": 2.07833333
+                      },
+                      "city": {
+                        "legacyId": "barcelona_es",
+                        "name": "Barcelona",
+                        "id": "City:barcelona_es"
+                      },
+                      "country": {
+                        "code": "ES",
+                        "id": "Country:ES"
+                      }
+                    }
+                  },
+                  "destination": {
+                    "localTime": "2024-11-13T09:50:00",
+                    "utcTime": "2024-11-13T08:50:00",
+                    "station": {
+                      "id": "Station:airport:PRG",
+                      "legacyId": "PRG",
+                      "name": "Václav Havel Airport Prague",
+                      "code": "PRG",
+                      "type": "AIRPORT",
+                      "gps": {
+                        "lat": 50.1008333,
+                        "lng": 14.26
+                      },
+                      "city": {
+                        "legacyId": "prague_cz",
+                        "name": "Prague",
+                        "id": "City:prague_cz"
+                      },
+                      "country": {
+                        "code": "CZ",
+                        "id": "Country:CZ"
+                      }
+                    }
+                  },
+                  "duration": 9000,
+                  "type": "FLIGHT",
+                  "code": "8652",
+                  "carrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "operatingCarrier": {
+                    "id": "Carrier:9",
+                    "name": "Vueling",
+                    "code": "VY"
+                  },
+                  "cabinClass": "ECONOMY",
+                  "hiddenDestination": null,
+                  "throwawayDestination": null
+                },
+                "layover": null
+              }
+            ],
+            "duration": 9000
+          },
+          "stopover": {
+            "nightsCount": 8,
+            "arrival": {
+              "type": "AIRPORT",
+              "city": {
+                "name": "Barcelona",
+                "id": "City:barcelona_es"
+              },
+              "id": "Station:airport:BCN"
+            },
+            "departure": {
+              "type": "AIRPORT",
+              "id": "Station:airport:BCN"
+            },
+            "duration": 11180
+          },
+          "lastAvailable": {
+            "seatsLeft": null
+          },
+          "extendedFareOptionsPricing": {
+            "standardFarePrice": {
+              "amount": "2218.75"
+            },
+            "flexiFarePrice": {
+              "amount": "2399"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
