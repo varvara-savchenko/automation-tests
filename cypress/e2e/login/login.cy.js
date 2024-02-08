@@ -1,6 +1,5 @@
 describe("Test login functionality", () => {
     it('should check error for invalid email address', () => {
-        cy.acceptCookies()
         cy.visit('/en/')
 
         cy.log("Open sign in form by clicking on button")

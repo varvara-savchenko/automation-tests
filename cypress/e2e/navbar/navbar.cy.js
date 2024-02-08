@@ -12,7 +12,6 @@ const navbarItems = [
 viewports.forEach((viewport) => {
   describe(`${viewport}: test navbar on Kiwi.com landing page`, () => {
     it('should navbar elements on Kiwi.com landing page', () => {
-      cy.acceptCookies()
       cy.viewport(viewport)
       cy.visit('/en/')
 

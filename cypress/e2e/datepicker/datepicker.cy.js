@@ -7,7 +7,6 @@ const urlFirstDayOfNextMonth = format(startOfMonth(nextMonth), "yyyy-MM-dd") // 
 
 describe("Test datepicker functionality", () => {
     it("should check basic datepicker functionality on Kiwi.com landing page", () => {
-        cy.acceptCookies()
         cy.visit('/en/')
 
         cy.log("Check there are datepicker inputs are set to Anytime by default")
