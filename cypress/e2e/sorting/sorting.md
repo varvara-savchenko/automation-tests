@@ -1,7 +1,7 @@
 # Testing Sorting Functionality
 
-  Scenario: Verify that results are sorted by cheapest: 
     Given user is on landing page
+    
     When "Cheapest" sorting option is preselected
     Then results should be sorted by price
 
