@@ -32,7 +32,5 @@ describe("Test for results <-> backend calls interaction", () => {
         }).then(({ requestClass }) => {
             expect(requestClass).to.deep.equal('BUSINESS')
         })
-
-
     })
 })
