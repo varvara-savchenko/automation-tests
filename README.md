@@ -4,7 +4,7 @@ I've created few samples of Cypress tests for demonstration purposes. Each test 
 
 Technics that were used: 
 - assigning viewports
-- checking response status codes (404, 200, 402)
+- checking response status codes (404, 200, 302)
 - setting IF condition
 - using forEach() method
 - assigning variables
@@ -17,3 +17,5 @@ Technics that were used:
 - creating function for price comparison (each number should be less or equal to the next number)
 - checking length of elements dynamically
 - mocking data
+- working with date-fns library (import data, change format)
+- manipulating with sliders (custom command to set screen, client and page position)

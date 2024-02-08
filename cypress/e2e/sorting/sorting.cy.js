@@ -16,7 +16,7 @@ function checkCheapestSorting() {
 describe("Test for sorting functionality on results page", () => {
     it("should check that results are sorted by cheapest", () => {
         cy.acceptCookies()
-        cy.visit("https://www.kiwi.com/en/search/results/prague-czechia/barcelona-spain/anytime/anytime?sortBy=price")
+        cy.visit("/en/search/results/prague-czechia/barcelona-spain/anytime/anytime?sortBy=price")
 
         cy.log("mock data and wait for results to upload")
         cy.returnResults()

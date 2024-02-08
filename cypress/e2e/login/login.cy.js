@@ -1,31 +1,33 @@
 describe("Test login functionality", () => {
-    it('should check error for invalid login', () => {
-        cy.visit('https://courses.ultimateqa.com/users/sign_in')
+    it('should check error for invalid email address', () => {
+        cy.acceptCookies()
+        cy.visit('/en/')
 
-        cy.log("Sign in form is visible")
-        cy.get(".sign-in__form").should("be.visible").within(() => {
-            cy.get(".form__group").spread((emailForm, passwordForm) => {
-                cy.log("Enter email address")
-                cy.get(emailForm)
-                    .find("input")
-                    .should("have.attr", "placeholder", "Email")
-                    .type("example@email.com")
+        cy.log("Open sign in form by clicking on button")
+        cy.get("[data-test=TopNav-SingInButton]")
+            .should("be.visible")
+            .and("have.text", "Sign in")
+            .click()
 
-                cy.log("Enter incorrect password")
-                cy.get(passwordForm)
-                    .find("input")
-                    .should("be.visible")
-                    .and("have.attr", "placeholder", "Password")
-                    .type("123")
+        cy.log("Sign in modal should be opened")
+        cy.contains("h2", "Continue to your account").parent().should("be.visible")
 
-                cy.log("Click on Sign in button")
-                cy.contains("button", "Sign in").click()
-
-                cy.log("Error is shown")
-                cy.get(".form-error__list-item")
-                    .should("be.visible")
-                    .and("have.text", "Invalid email or password.")
-            })
+        cy.log("All login options are presented")
+        const loginOptions = ["Email", "Facebook", "Google", "Apple"]
+        loginOptions.forEach((option) => {
+            cy.get(`[data-test=MagicLogin-LoginVia${option}]`).should("be.visible")
         })
+
+        cy.log("Select login via email and type invalid email address")
+        cy.get("[data-test=MagicLogin-LoginViaEmail]").click()
+        cy.get("[data-test=MagicLogin-Email]").should("have.attr", "placeholder", "e.g. your@email.com").type("email.com")
+        cy.get("[data-test=MagicLogin-Continue]").should("have.text", "Continue").click()
+
+        cy.log("Verify that error is shown")
+        cy.get("[name=loginIntro]").find("svg").click()
+        cy.get("[aria-live=polite]")
+            .should("be.visible")
+            .and("have.text", "Please use this format: your@email.com")
+            .and("have.css", "background-color", "rgb(210, 28, 28)")
     })
 })
