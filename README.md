@@ -13,7 +13,8 @@ Technics that were used:
 - verifying expected state once action is completed
 - setting baseURL in config file
 - using cy.intercept() and assigning alias
-- creating custom command for accepting cookies
+- creating custom acceptCookies() command for accepting cookies
+- set acceptCookies() command to be a part of beforeEach() hook
 - creating function for price comparison (each number should be less or equal to the next number)
 - checking length of elements dynamically
 - mocking data
