@@ -26,7 +26,7 @@ describe("Test for results <-> backend calls interaction", () => {
         cy.get("[data-test=CabinClassField-active-economy]").click()
         cy.get("[data-test=CabinClassPicker-filter-business]").click()
         cy.get("[data-test=CabinClassFooter-done]").click()
-        cy.wait(8000) //to avoid flakiness since we work with real API
+        cy.wait(15000) //to avoid flakiness since we work with real API
         cy.checkBackend("searchResultsBusiness", {
             BEargs: ["requestClass"],
         }).then(({ requestClass }) => {
