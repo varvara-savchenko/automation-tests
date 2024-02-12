@@ -20,3 +20,4 @@ Technics that were used:
 - mocking data
 - working with date-fns library (import data, change format)
 - manipulating with sliders (custom command to set screen, client and page position)
+- accessing BE calls & verifying that it follows FE changes
