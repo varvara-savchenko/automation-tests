@@ -31,27 +31,3 @@ Cypress.Commands.add("scrollSliderHandle", { prevSubject: "element" }, (subject,
         .trigger("mousemove", { clientX, screenX, pageX, clientY: 900, screenY: 900, pageY: 900 })
         .trigger("mouseup", { force: true });
 })
-
-Cypress.Commands.add("checkBackend", (alias, { BEargs } = "") => {
-    cy.wait(`@${alias}`).then(xhr => {
-        expect(xhr.response).to.not.be.empty
-        const requestVariable = {
-            requestOrigin: xhr.request.body.variables.search.itinerary.source?.ids,
-            requestDestination: xhr.request.body.variables.search.itinerary.destination?.ids,
-            requestClass: xhr.request.body.variables.search.cabinClass.cabinClass,
-            requestSorting: xhr.request.body.variables.options.sortBy,
-        }
-
-        if (typeof BEargs === "string") {
-            return requestVariable[BEargs]
-        }
-
-        if (Array.isArray(BEargs)) {
-            const result = {}
-            BEargs.forEach(arg => {
-                result[arg] = requestVariable[arg]
-            })
-            return result
-        }
-    })
-})
