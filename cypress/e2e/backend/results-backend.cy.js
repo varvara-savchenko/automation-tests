@@ -14,7 +14,7 @@ describe("Test for results <-> backend calls interaction", () => {
         cy.log("intercept the call and sort results by Fastest")
         cy.intercept("POST", /SearchReturnItinerariesQuery/).as("searchResultsFastest")
         cy.get("[data-test=SortBy-duration]").click()
-        cy.wait(5000)
+        cy.wait(10000)
         cy.checkBackendVariables({
             interceptionAlias: "searchResultsFastest",
             variablesToCheck: {
@@ -31,7 +31,7 @@ describe("Test for results <-> backend calls interaction", () => {
         cy.checkBackendVariables({
             interceptionAlias: "searchResultsBusiness",
             variablesToCheck: {
-                duration: "BUSINESS"
+                cabinClass: "BUSINESS"
             }
         })
     })

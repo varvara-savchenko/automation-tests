@@ -53,6 +53,8 @@ Cypress.Commands.add("checkBackendVariables", ({ interceptionAlias, variablesToC
                     const destination = variables.search.itinerary.destination.ids;
                     cy.wrap(destination).should('deep.equal', expectedValue);
                     break;
+                default:
+                    throw new Error(`Invalid variable name: ${variable}`);
             }
         })
     })
