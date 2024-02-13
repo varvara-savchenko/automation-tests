@@ -19,5 +19,5 @@ Technics that were used:
 - checking length of elements dynamically
 - mocking data
 - working with date-fns library (import data, change format)
-- manipulating with sliders (custom command to set screen, client and page position)
+- allowing clipboard permission and copying link to clipboard
 - accessing BE calls & verifying that it follows FE changes
