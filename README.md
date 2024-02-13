@@ -9,7 +9,6 @@ Technics that were used:
 - using forEach() method
 - assigning variables
 - verifying elements visibility & attributes
-- using spread() method for multiple elements with the same selector for better readability
 - verifying expected state once action is completed
 - setting baseURL in config file
 - using cy.intercept() and assigning alias
@@ -18,6 +17,5 @@ Technics that were used:
 - creating function for price comparison (each number should be less or equal to the next number)
 - checking length of elements dynamically
 - mocking data
-- working with date-fns library (import data, change format)
 - allowing clipboard permission and copying link to clipboard
 - accessing BE calls & verifying that it follows FE changes
